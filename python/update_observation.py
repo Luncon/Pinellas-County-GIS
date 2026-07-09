@@ -19,10 +19,18 @@ params = {
     }
 
 response = requests.get(url, params=params)
-
-
 data = response.json()
 
 observations = data['results']
 
 print(f'Found {len(observations)} observations for {species_name}')
+
+
+for index, observation in enumerate(observations, start=1):
+    species = observation.get('species_guess')
+    observed_on = observation.get('observed_on')
+    location = observation.get('location')
+
+    print(f"{index}. {species} | {observed_on} | {location}")
+
+
