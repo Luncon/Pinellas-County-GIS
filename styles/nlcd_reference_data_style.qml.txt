@@ -1,0 +1,30 @@
+<qgis>
+  <pipe>
+    <rasterrenderer type="paletted" band="1">
+      <colorPalette>
+
+        <paletteEntry value="11" color="#0000ff" alpha="255" label="11 - Open Water"/>
+
+        <paletteEntry value="21" color="#d9d9d9" alpha="255" label="21 - Developed Open Space"/>
+        <paletteEntry value="22" color="#bdbdbd" alpha="255" label="22 - Developed Low Intensity"/>
+        <paletteEntry value="23" color="#969696" alpha="255" label="23 - Developed Medium Intensity"/>
+        <paletteEntry value="24" color="#636363" alpha="255" label="24 - Developed High Intensity"/>
+
+        <paletteEntry value="41" color="#228b22" alpha="255" label="41 - Hardwood Forest"/>
+        <paletteEntry value="42" color="#00441b" alpha="255" label="42 - Evergreen / Pine Forest"/>
+        <paletteEntry value="43" color="#2e8b57" alpha="255" label="43 - Mixed Forest"/>
+
+        <paletteEntry value="52" color="#6b8e23" alpha="255" label="53 - Shrub / Scrub"/>
+
+        <paletteEntry value="71" color="#9acd32" alpha="255" label="71 - Grassland / Herbaceous"/>
+
+        <paletteEntry value="81" color="#ffd700" alpha="255" label="81 - Pasture / Hay"/>
+        <paletteEntry value="82" color="#ffb347" alpha="255" label="82 - Cultivated Crops"/>
+
+        <paletteEntry value="90" color="#006400" alpha="255" label="90 - Woody Wetlands / Swamp Forest"/>
+        <paletteEntry value="95" color="#66c266" alpha="255" label="95 - Emergent Herbaceous Wetlands / Marsh"/>
+
+      </colorPalette>
+    </rasterrenderer>
+  </pipe>
+</qgis>
