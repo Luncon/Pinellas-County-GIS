@@ -6,597 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.6150583333,
-          33.158425
+          -82.5778116667,
+          28.7644916667
         ]
       },
       "properties": {
-        "observation_id": 380044920,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-10",
-        "uri": "https://www.inaturalist.org/observations/380044920",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.7709295956,
-          30.3127077084
-        ]
-      },
-      "properties": {
-        "observation_id": 379992975,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2025-09-07",
-        "uri": "https://www.inaturalist.org/observations/379992975",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.375206,
-          27.4863229722
-        ]
-      },
-      "properties": {
-        "observation_id": 379906814,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-09",
-        "uri": "https://www.inaturalist.org/observations/379906814",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1091394337,
-          26.8940561157
-        ]
-      },
-      "properties": {
-        "observation_id": 379896776,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-02",
-        "uri": "https://www.inaturalist.org/observations/379896776",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.174386,
-          28.6153
-        ]
-      },
-      "properties": {
-        "observation_id": 379891824,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-09",
-        "uri": "https://www.inaturalist.org/observations/379891824",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.0846132518,
-          38.8955394463
-        ]
-      },
-      "properties": {
-        "observation_id": 379884310,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-09",
-        "uri": "https://www.inaturalist.org/observations/379884310",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.11955537,
-          38.9561950494
-        ]
-      },
-      "properties": {
-        "observation_id": 379884309,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-09",
-        "uri": "https://www.inaturalist.org/observations/379884309",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.1780190272,
-          38.909582933
-        ]
-      },
-      "properties": {
-        "observation_id": 379884308,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-09",
-        "uri": "https://www.inaturalist.org/observations/379884308",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.6072488112,
-          30.2753194557
-        ]
-      },
-      "properties": {
-        "observation_id": 379846739,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-09",
-        "uri": "https://www.inaturalist.org/observations/379846739",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.36953,
-          29.63333
-        ]
-      },
-      "properties": {
-        "observation_id": 379835217,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-09",
-        "uri": "https://www.inaturalist.org/observations/379835217",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.0442416667,
-          27.8767083333
-        ]
-      },
-      "properties": {
-        "observation_id": 379831913,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-09",
-        "uri": "https://www.inaturalist.org/observations/379831913",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.2845189356,
-          25.8218662705
-        ]
-      },
-      "properties": {
-        "observation_id": 379826275,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-09",
-        "uri": "https://www.inaturalist.org/observations/379826275",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4416136337,
-          27.2389587272
-        ]
-      },
-      "properties": {
-        "observation_id": 379793797,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2025-08-10",
-        "uri": "https://www.inaturalist.org/observations/379793797",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4809237036,
-          28.0749724527
-        ]
-      },
-      "properties": {
-        "observation_id": 379770374,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2025-10-10",
-        "uri": "https://www.inaturalist.org/observations/379770374",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.8753883333,
-          30.265655
-        ]
-      },
-      "properties": {
-        "observation_id": 379747313,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-09",
-        "uri": "https://www.inaturalist.org/observations/379747313",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.3742706423,
-          28.0724846106
-        ]
-      },
-      "properties": {
-        "observation_id": 379740842,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-09",
-        "uri": "https://www.inaturalist.org/observations/379740842",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.3036259365,
-          33.7858489241
-        ]
-      },
-      "properties": {
-        "observation_id": 379703086,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-09",
-        "uri": "https://www.inaturalist.org/observations/379703086",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.1494609309,
-          33.2085461517
-        ]
-      },
-      "properties": {
-        "observation_id": 379680324,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-09",
-        "uri": "https://www.inaturalist.org/observations/379680324",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.1951916667,
-          30.3198866667
-        ]
-      },
-      "properties": {
-        "observation_id": 379625355,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2021-08-27",
-        "uri": "https://www.inaturalist.org/observations/379625355",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.8235632811,
-          30.4499387998
-        ]
-      },
-      "properties": {
-        "observation_id": 379580365,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-08",
-        "uri": "https://www.inaturalist.org/observations/379580365",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.1770167192,
-          34.1560082016
-        ]
-      },
-      "properties": {
-        "observation_id": 379561821,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-07",
-        "uri": "https://www.inaturalist.org/observations/379561821",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4985722674,
-          27.8731319606
-        ]
-      },
-      "properties": {
-        "observation_id": 379555239,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-08",
-        "uri": "https://www.inaturalist.org/observations/379555239",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6434742363,
-          27.5204857731
-        ]
-      },
-      "properties": {
-        "observation_id": 379542079,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-08",
-        "uri": "https://www.inaturalist.org/observations/379542079",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.60967353,
-          32.54777805
-        ]
-      },
-      "properties": {
-        "observation_id": 379536964,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-08",
-        "uri": "https://www.inaturalist.org/observations/379536964",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.2747633333,
-          30.3685033333
-        ]
-      },
-      "properties": {
-        "observation_id": 379532055,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-08",
-        "uri": "https://www.inaturalist.org/observations/379532055",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.0560193611,
-          26.5711604334
-        ]
-      },
-      "properties": {
-        "observation_id": 379519514,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-08",
-        "uri": "https://www.inaturalist.org/observations/379519514",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.0558392154,
-          26.5712497565
-        ]
-      },
-      "properties": {
-        "observation_id": 379519385,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-08",
-        "uri": "https://www.inaturalist.org/observations/379519385",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.0070630966,
-          36.886607217
-        ]
-      },
-      "properties": {
-        "observation_id": 379502190,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-08",
-        "uri": "https://www.inaturalist.org/observations/379502190",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.18937,
-          28.83085
-        ]
-      },
-      "properties": {
-        "observation_id": 379500634,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-08",
-        "uri": "https://www.inaturalist.org/observations/379500634",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.6565160716,
-          33.903898468
-        ]
-      },
-      "properties": {
-        "observation_id": 379483317,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
+        "observation_id": 379556401,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
         "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/379483317",
+        "uri": "https://www.inaturalist.org/observations/379556401",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -606,17 +26,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.2445991467,
-          33.2323713564
+          -80.0946582317,
+          26.4113527207
         ]
       },
       "properties": {
-        "observation_id": 379363215,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
+        "observation_id": 379528898,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
         "observed_on": "2026-07-08",
-        "uri": "https://www.inaturalist.org/observations/379363215",
+        "uri": "https://www.inaturalist.org/observations/379528898",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -626,17 +46,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.4637647419,
-          30.1393275124
+          -80.5089633333,
+          27.6380216667
         ]
       },
       "properties": {
-        "observation_id": 379362487,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-26",
-        "uri": "https://www.inaturalist.org/observations/379362487",
+        "observation_id": 379201635,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379201635",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -646,17 +66,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.7283730215,
-          35.3058089465
+          -81.7191885997,
+          32.032083
         ]
       },
       "properties": {
-        "observation_id": 379278467,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-04-15",
-        "uri": "https://www.inaturalist.org/observations/379278467",
+        "observation_id": 379176908,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-03-24",
+        "uri": "https://www.inaturalist.org/observations/379176908",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -666,17 +86,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.936356077,
-          30.3086080015
+          -85.8226783333,
+          30.19715
         ]
       },
       "properties": {
-        "observation_id": 379249893,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
+        "observation_id": 379144372,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379144372",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6253290875,
+          28.0341441127
+        ]
+      },
+      "properties": {
+        "observation_id": 378807801,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-06-10",
+        "uri": "https://www.inaturalist.org/observations/378807801",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.64193,
+          28.3173033333
+        ]
+      },
+      "properties": {
+        "observation_id": 378795474,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
         "observed_on": "2026-07-06",
-        "uri": "https://www.inaturalist.org/observations/379249893",
+        "uri": "https://www.inaturalist.org/observations/378795474",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -686,17 +146,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.6187154673,
-          29.3172338753
+          -53.7763018997,
+          -34.3578801997
         ]
       },
       "properties": {
-        "observation_id": 379248185,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-17",
-        "uri": "https://www.inaturalist.org/observations/379248185",
+        "observation_id": 378655039,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-29",
+        "uri": "https://www.inaturalist.org/observations/378655039",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -706,17 +166,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.3278283333,
-          37.8628
+          -81.7183916667,
+          26.1091166667
         ]
       },
       "properties": {
-        "observation_id": 379236900,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-07",
-        "uri": "https://www.inaturalist.org/observations/379236900",
+        "observation_id": 378628764,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-08",
+        "uri": "https://www.inaturalist.org/observations/378628764",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -726,197 +186,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4646801083,
-          33.5889496571
+          -82.5630411,
+          28.6178389997
         ]
       },
       "properties": {
-        "observation_id": 379219398,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-07",
-        "uri": "https://www.inaturalist.org/observations/379219398",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.8649630099,
-          30.7963031863
-        ]
-      },
-      "properties": {
-        "observation_id": 379213577,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-07",
-        "uri": "https://www.inaturalist.org/observations/379213577",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.5081866667,
-          27.6385083333
-        ]
-      },
-      "properties": {
-        "observation_id": 379201279,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-07",
-        "uri": "https://www.inaturalist.org/observations/379201279",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.5493225,
-          27.3716287997
-        ]
-      },
-      "properties": {
-        "observation_id": 379189727,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-07",
-        "uri": "https://www.inaturalist.org/observations/379189727",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.8942337781,
-          35.1697817656
-        ]
-      },
-      "properties": {
-        "observation_id": 379186543,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-07",
-        "uri": "https://www.inaturalist.org/observations/379186543",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.6218805,
-          33.1638262997
-        ]
-      },
-      "properties": {
-        "observation_id": 379124204,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-07",
-        "uri": "https://www.inaturalist.org/observations/379124204",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.3855283333,
-          29.6859133333
-        ]
-      },
-      "properties": {
-        "observation_id": 379111980,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-07",
-        "uri": "https://www.inaturalist.org/observations/379111980",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.4849408966,
-          33.909808671
-        ]
-      },
-      "properties": {
-        "observation_id": 379109551,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-07",
-        "uri": "https://www.inaturalist.org/observations/379109551",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.6116722222,
-          28.3304305556
-        ]
-      },
-      "properties": {
-        "observation_id": 378971068,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-06",
-        "uri": "https://www.inaturalist.org/observations/378971068",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.2884020997,
-          30.8050032
-        ]
-      },
-      "properties": {
-        "observation_id": 378845730,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
+        "observation_id": 378614316,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
         "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/378845730",
+        "uri": "https://www.inaturalist.org/observations/378614316",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -926,97 +206,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.6831291095,
-          32.087907592
+          -82.5628499722,
+          28.617663
         ]
       },
       "properties": {
-        "observation_id": 378844838,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-06",
-        "uri": "https://www.inaturalist.org/observations/378844838",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.781400109,
-          35.0366429641
-        ]
-      },
-      "properties": {
-        "observation_id": 378826114,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-06",
-        "uri": "https://www.inaturalist.org/observations/378826114",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.2102163211,
-          29.6367756913
-        ]
-      },
-      "properties": {
-        "observation_id": 378796375,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-06",
-        "uri": "https://www.inaturalist.org/observations/378796375",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4657377149,
-          28.71327483
-        ]
-      },
-      "properties": {
-        "observation_id": 378752758,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-06",
-        "uri": "https://www.inaturalist.org/observations/378752758",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.5416113997,
-          31.6037503997
-        ]
-      },
-      "properties": {
-        "observation_id": 378642895,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
+        "observation_id": 378614298,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
         "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/378642895",
+        "uri": "https://www.inaturalist.org/observations/378614298",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1026,57 +226,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.4384895997,
-          30.1241728
+          -82.5628013,
+          28.6178021997
         ]
       },
       "properties": {
-        "observation_id": 378626922,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-02",
-        "uri": "https://www.inaturalist.org/observations/378626922",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.1274461593,
-          30.3423467643
-        ]
-      },
-      "properties": {
-        "observation_id": 378610600,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2015-10-10",
-        "uri": "https://www.inaturalist.org/observations/378610600",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.778254,
-          30.417457
-        ]
-      },
-      "properties": {
-        "observation_id": 378609294,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
+        "observation_id": 378614288,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
         "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/378609294",
+        "uri": "https://www.inaturalist.org/observations/378614288",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1086,17 +246,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.3308661975,
-          28.870257154
+          -82.562752,
+          28.6177859722
         ]
       },
       "properties": {
-        "observation_id": 378596591,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
+        "observation_id": 378614287,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
         "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/378596591",
+        "uri": "https://www.inaturalist.org/observations/378614287",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1106,337 +266,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.3021685393,
-          30.7460825177
+          -85.2220833333,
+          29.682975
         ]
       },
       "properties": {
-        "observation_id": 378541801,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/378541801",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.2724958995,
-          30.5576266946
-        ]
-      },
-      "properties": {
-        "observation_id": 378515283,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-02",
-        "uri": "https://www.inaturalist.org/observations/378515283",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4912472222,
-          30.3837916667
-        ]
-      },
-      "properties": {
-        "observation_id": 378490596,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/378490596",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.3287583333,
-          29.6214133333
-        ]
-      },
-      "properties": {
-        "observation_id": 378465260,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2022-07-13",
-        "uri": "https://www.inaturalist.org/observations/378465260",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.4177093506,
-          34.79164505
-        ]
-      },
-      "properties": {
-        "observation_id": 378454406,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/378454406",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.2084587442,
-          27.8538536577
-        ]
-      },
-      "properties": {
-        "observation_id": 378453851,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/378453851",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.7669083333,
-          31.3612277778
-        ]
-      },
-      "properties": {
-        "observation_id": 378377421,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-16",
-        "uri": "https://www.inaturalist.org/observations/378377421",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.9356460556,
-          35.1218261667
-        ]
-      },
-      "properties": {
-        "observation_id": 378233253,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-04",
-        "uri": "https://www.inaturalist.org/observations/378233253",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.6084276172,
-          29.8398022918
-        ]
-      },
-      "properties": {
-        "observation_id": 378169512,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-27",
-        "uri": "https://www.inaturalist.org/observations/378169512",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.3108583333,
-          35.3854466667
-        ]
-      },
-      "properties": {
-        "observation_id": 378168129,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2023-10-07",
-        "uri": "https://www.inaturalist.org/observations/378168129",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.9421005,
-          35.1177291667
-        ]
-      },
-      "properties": {
-        "observation_id": 378137543,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-04",
-        "uri": "https://www.inaturalist.org/observations/378137543",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.54545,
-          28.5031583333
-        ]
-      },
-      "properties": {
-        "observation_id": 378134498,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-04",
-        "uri": "https://www.inaturalist.org/observations/378134498",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.8268463239,
-          30.2243057833
-        ]
-      },
-      "properties": {
-        "observation_id": 378098228,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-25",
-        "uri": "https://www.inaturalist.org/observations/378098228",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.1170572997,
-          33.6720855
-        ]
-      },
-      "properties": {
-        "observation_id": 378069036,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-27",
-        "uri": "https://www.inaturalist.org/observations/378069036",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4202333333,
-          28.9601111111
-        ]
-      },
-      "properties": {
-        "observation_id": 378064175,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-04",
-        "uri": "https://www.inaturalist.org/observations/378064175",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.140519181,
-          30.3235135322
-        ]
-      },
-      "properties": {
-        "observation_id": 378046313,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2025-10-25",
-        "uri": "https://www.inaturalist.org/observations/378046313",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.1203790997,
-          33.6704727997
-        ]
-      },
-      "properties": {
-        "observation_id": 378029038,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
+        "observation_id": 377790712,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
         "observed_on": "2026-06-21",
-        "uri": "https://www.inaturalist.org/observations/378029038",
+        "uri": "https://www.inaturalist.org/observations/377790712",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1446,17 +286,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.070275,
-          26.3671833333
+          -80.1056444444,
+          26.37485
         ]
       },
       "properties": {
-        "observation_id": 378023607,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-01",
-        "uri": "https://www.inaturalist.org/observations/378023607",
+        "observation_id": 376879914,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-30",
+        "uri": "https://www.inaturalist.org/observations/376879914",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1466,17 +306,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.3965275518,
-          33.8567863014
+          -80.67198,
+          25.3893333333
         ]
       },
       "properties": {
-        "observation_id": 377931674,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377931674",
+        "observation_id": 376525765,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-28",
+        "uri": "https://www.inaturalist.org/observations/376525765",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1486,17 +326,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.2959263358,
-          35.4374035622
+          -80.4098046058,
+          27.2372514257
         ]
       },
       "properties": {
-        "observation_id": 377922599,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377922599",
+        "observation_id": 376345219,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-26",
+        "uri": "https://www.inaturalist.org/observations/376345219",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1506,17 +346,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.437987,
-          27.5634799722
+          -80.3548357263,
+          26.842936906
         ]
       },
       "properties": {
-        "observation_id": 377903842,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377903842",
+        "observation_id": 376336143,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-27",
+        "uri": "https://www.inaturalist.org/observations/376336143",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1526,17 +366,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.8235,
-          31.8147138889
+          -81.6340555556,
+          28.7212861111
         ]
       },
       "properties": {
-        "observation_id": 377878876,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-23",
-        "uri": "https://www.inaturalist.org/observations/377878876",
+        "observation_id": 376328152,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-28",
+        "uri": "https://www.inaturalist.org/observations/376328152",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1546,18 +386,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.4357399722,
-          27.559991
+          -80.5736400592,
+          25.4008497487
         ]
       },
       "properties": {
-        "observation_id": 377869665,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377869665",
-        "taxon_rank": "species",
+        "observation_id": 376031860,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-06-22",
+        "uri": "https://www.inaturalist.org/observations/376031860",
+        "taxon_rank": "variety",
         "iconic_taxon": "Plantae"
       }
     },
@@ -1566,18 +406,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.33470832,
-          28.78730393
+          -80.24993,
+          27.246445
         ]
       },
       "properties": {
-        "observation_id": 377848596,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377848596",
-        "taxon_rank": "species",
+        "observation_id": 375980899,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-06-27",
+        "uri": "https://www.inaturalist.org/observations/375980899",
+        "taxon_rank": "variety",
         "iconic_taxon": "Plantae"
       }
     },
@@ -1586,77 +426,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.9830548213,
-          28.5758070248
+          -80.1852453501,
+          26.9439184712
         ]
       },
       "properties": {
-        "observation_id": 377843440,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377843440",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.240975,
-          35.2158666667
-        ]
-      },
-      "properties": {
-        "observation_id": 377839157,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377839157",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4429822,
-          28.8547250997
-        ]
-      },
-      "properties": {
-        "observation_id": 377835148,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377835148",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.7261691885,
-          30.1852266403
-        ]
-      },
-      "properties": {
-        "observation_id": 377834822,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
+        "observation_id": 375367595,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
         "observed_on": "2026-06-25",
-        "uri": "https://www.inaturalist.org/observations/377834822",
+        "uri": "https://www.inaturalist.org/observations/375367595",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1666,17 +446,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.7261691885,
-          30.1852266403
+          -84.9868067256,
+          30.3498813652
         ]
       },
       "properties": {
-        "observation_id": 377834802,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-25",
-        "uri": "https://www.inaturalist.org/observations/377834802",
+        "observation_id": 375240717,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-03-12",
+        "uri": "https://www.inaturalist.org/observations/375240717",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1686,17 +466,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.4433733333,
-          28.8544316667
+          -84.3433916667,
+          29.9152966667
         ]
       },
       "properties": {
-        "observation_id": 377815866,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377815866",
+        "observation_id": 375232310,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-24",
+        "uri": "https://www.inaturalist.org/observations/375232310",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1706,17 +486,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6192762209,
-          30.6411466206
+          -86.1978304935,
+          30.3599262982
         ]
       },
       "properties": {
-        "observation_id": 377808940,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377808940",
+        "observation_id": 375004657,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-03-09",
+        "uri": "https://www.inaturalist.org/observations/375004657",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1726,17 +506,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.3363313263,
-          30.5836144592
+          -82.376232,
+          28.062763
         ]
       },
       "properties": {
-        "observation_id": 377800298,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-27",
-        "uri": "https://www.inaturalist.org/observations/377800298",
+        "observation_id": 374984812,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-24",
+        "uri": "https://www.inaturalist.org/observations/374984812",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1746,17 +526,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.0404805556,
-          36.9160388889
+          -84.7568817139,
+          29.7122612
         ]
       },
       "properties": {
-        "observation_id": 377797239,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2018-09-30",
-        "uri": "https://www.inaturalist.org/observations/377797239",
+        "observation_id": 374924069,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-24",
+        "uri": "https://www.inaturalist.org/observations/374924069",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1766,17 +546,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.336454487,
-          30.5825961043
+          -90.1112384632,
+          30.0048548187
         ]
       },
       "properties": {
-        "observation_id": 377796693,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-27",
-        "uri": "https://www.inaturalist.org/observations/377796693",
+        "observation_id": 374438086,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-22",
+        "uri": "https://www.inaturalist.org/observations/374438086",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1786,17 +566,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.5888027139,
-          30.0029673864
+          -81.1782033333,
+          28.8330566667
         ]
       },
       "properties": {
-        "observation_id": 377795642,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377795642",
+        "observation_id": 374414722,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-20",
+        "uri": "https://www.inaturalist.org/observations/374414722",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1806,17 +586,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.9113783333,
-          33.9064783333
+          -82.1499186189,
+          26.9861444354
         ]
       },
       "properties": {
-        "observation_id": 377759358,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377759358",
+        "observation_id": 374305402,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-22",
+        "uri": "https://www.inaturalist.org/observations/374305402",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1826,17 +606,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.1167513997,
-          33.6720538
+          -80.1009152,
+          27.0034639
         ]
       },
       "properties": {
-        "observation_id": 377733717,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-14",
-        "uri": "https://www.inaturalist.org/observations/377733717",
+        "observation_id": 373690225,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2023-07-01",
+        "uri": "https://www.inaturalist.org/observations/373690225",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1846,17 +626,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.8543757945,
-          33.743358832
+          -80.1099083333,
+          26.2815533333
         ]
       },
       "properties": {
-        "observation_id": 377727786,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377727786",
+        "observation_id": 373087844,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-06",
+        "uri": "https://www.inaturalist.org/observations/373087844",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1866,17 +646,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.4077216667,
-          34.0209778333
+          -81.3602533333,
+          27.210455
         ]
       },
       "properties": {
-        "observation_id": 377720540,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377720540",
+        "observation_id": 373073860,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-06-18",
+        "uri": "https://www.inaturalist.org/observations/373073860",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3973616667,
+          27.3998116667
+        ]
+      },
+      "properties": {
+        "observation_id": 372739257,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-17",
+        "uri": "https://www.inaturalist.org/observations/372739257",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1886,17 +686,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.1028119104,
-          26.3779896889
+          -82.6523133333,
+          27.728195
         ]
       },
       "properties": {
-        "observation_id": 377720199,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377720199",
+        "observation_id": 372433605,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-15",
+        "uri": "https://www.inaturalist.org/observations/372433605",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1906,17 +706,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.1204077,
-          33.670461
+          -80.30442,
+          25.62877
         ]
       },
       "properties": {
-        "observation_id": 377711317,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-07",
-        "uri": "https://www.inaturalist.org/observations/377711317",
+        "observation_id": 371808004,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2025-04-09",
+        "uri": "https://www.inaturalist.org/observations/371808004",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.86539213,
+          30.38192181
+        ]
+      },
+      "properties": {
+        "observation_id": 371253854,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-13",
+        "uri": "https://www.inaturalist.org/observations/371253854",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1926,17 +746,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.4623916667,
-          34.1686611111
+          -88.86517881,
+          30.38249195
         ]
       },
       "properties": {
-        "observation_id": 377705596,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-03",
-        "uri": "https://www.inaturalist.org/observations/377705596",
+        "observation_id": 371235577,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-13",
+        "uri": "https://www.inaturalist.org/observations/371235577",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1946,17 +766,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.3450101533,
-          30.4672782021
+          -88.8650833333,
+          30.38204
         ]
       },
       "properties": {
-        "observation_id": 377656835,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-27",
-        "uri": "https://www.inaturalist.org/observations/377656835",
+        "observation_id": 371235444,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-13",
+        "uri": "https://www.inaturalist.org/observations/371235444",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1966,17 +786,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.3431714839,
-          30.4671888068
+          -88.8652933333,
+          30.3821566667
         ]
       },
       "properties": {
-        "observation_id": 377654128,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-06-27",
-        "uri": "https://www.inaturalist.org/observations/377654128",
+        "observation_id": 371234463,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-13",
+        "uri": "https://www.inaturalist.org/observations/371234463",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
@@ -1986,17 +806,1597 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.272645,
-          30.5574533333
+          -88.8654735572,
+          30.3823671432
         ]
       },
       "properties": {
-        "observation_id": 377651352,
-        "taxon_id": 49193,
-        "scientific_name": "Callicarpa americana",
-        "common_name": null,
-        "observed_on": "2026-07-02",
-        "uri": "https://www.inaturalist.org/observations/377651352",
+        "observation_id": 371226775,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-13",
+        "uri": "https://www.inaturalist.org/observations/371226775",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5956033333,
+          28.1432361667
+        ]
+      },
+      "properties": {
+        "observation_id": 370673622,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-11",
+        "uri": "https://www.inaturalist.org/observations/370673622",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2518834323,
+          29.4083557966
+        ]
+      },
+      "properties": {
+        "observation_id": 370520993,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-04-18",
+        "uri": "https://www.inaturalist.org/observations/370520993",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6803262376,
+          30.404345575
+        ]
+      },
+      "properties": {
+        "observation_id": 370328025,
+        "taxon_id": 242257,
+        "scientific_name": "Pinus elliottii elliottii",
+        "common_name": "Typical Slash Pine",
+        "observed_on": "2026-06-10",
+        "uri": "https://www.inaturalist.org/observations/370328025",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.303895,
+          28.4138383333
+        ]
+      },
+      "properties": {
+        "observation_id": 370225159,
+        "taxon_id": 242257,
+        "scientific_name": "Pinus elliottii elliottii",
+        "common_name": "Typical Slash Pine",
+        "observed_on": "2026-06-05",
+        "uri": "https://www.inaturalist.org/observations/370225159",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5398833333,
+          25.5952666667
+        ]
+      },
+      "properties": {
+        "observation_id": 370124834,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-06-05",
+        "uri": "https://www.inaturalist.org/observations/370124834",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.318445,
+          27.2662616667
+        ]
+      },
+      "properties": {
+        "observation_id": 370051979,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-06-09",
+        "uri": "https://www.inaturalist.org/observations/370051979",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2974192947,
+          31.2699555551
+        ]
+      },
+      "properties": {
+        "observation_id": 369872783,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-08",
+        "uri": "https://www.inaturalist.org/observations/369872783",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6357722222,
+          26.1168694444
+        ]
+      },
+      "properties": {
+        "observation_id": 369106590,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-05-21",
+        "uri": "https://www.inaturalist.org/observations/369106590",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9305390506,
+          22.2547685415
+        ]
+      },
+      "properties": {
+        "observation_id": 368600950,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-01",
+        "uri": "https://www.inaturalist.org/observations/368600950",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5710216733,
+          25.4095007978
+        ]
+      },
+      "properties": {
+        "observation_id": 367626107,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-04-25",
+        "uri": "https://www.inaturalist.org/observations/367626107",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9811383333,
+          21.5355500019
+        ]
+      },
+      "properties": {
+        "observation_id": 367577742,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-31",
+        "uri": "https://www.inaturalist.org/observations/367577742",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8886359697,
+          29.652397662
+        ]
+      },
+      "properties": {
+        "observation_id": 367526261,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-06-01",
+        "uri": "https://www.inaturalist.org/observations/367526261",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6781,
+          30.34522
+        ]
+      },
+      "properties": {
+        "observation_id": 367269244,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-31",
+        "uri": "https://www.inaturalist.org/observations/367269244",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6794133333,
+          25.423795
+        ]
+      },
+      "properties": {
+        "observation_id": 367190553,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-27",
+        "uri": "https://www.inaturalist.org/observations/367190553",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5687927,
+          27.99008389
+        ]
+      },
+      "properties": {
+        "observation_id": 367015667,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-31",
+        "uri": "https://www.inaturalist.org/observations/367015667",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.763817,
+          29.705582
+        ]
+      },
+      "properties": {
+        "observation_id": 366519067,
+        "taxon_id": 242257,
+        "scientific_name": "Pinus elliottii elliottii",
+        "common_name": "Typical Slash Pine",
+        "observed_on": "2026-03-20",
+        "uri": "https://www.inaturalist.org/observations/366519067",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.762871,
+          29.704889
+        ]
+      },
+      "properties": {
+        "observation_id": 366518964,
+        "taxon_id": 242257,
+        "scientific_name": "Pinus elliottii elliottii",
+        "common_name": "Typical Slash Pine",
+        "observed_on": "2026-03-20",
+        "uri": "https://www.inaturalist.org/observations/366518964",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3083199722,
+          26.8543759722
+        ]
+      },
+      "properties": {
+        "observation_id": 366508728,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-05-29",
+        "uri": "https://www.inaturalist.org/observations/366508728",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.68699646,
+          27.9249687195
+        ]
+      },
+      "properties": {
+        "observation_id": 366488400,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-29",
+        "uri": "https://www.inaturalist.org/observations/366488400",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1934497216,
+          28.6019760261
+        ]
+      },
+      "properties": {
+        "observation_id": 366440986,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-28",
+        "uri": "https://www.inaturalist.org/observations/366440986",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1904278911,
+          28.6011356273
+        ]
+      },
+      "properties": {
+        "observation_id": 366392322,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-14",
+        "uri": "https://www.inaturalist.org/observations/366392322",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8326353878,
+          25.3229115609
+        ]
+      },
+      "properties": {
+        "observation_id": 366208004,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-21",
+        "uri": "https://www.inaturalist.org/observations/366208004",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1905075178,
+          28.6010573913
+        ]
+      },
+      "properties": {
+        "observation_id": 366152824,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-28",
+        "uri": "https://www.inaturalist.org/observations/366152824",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.581245,
+          25.7602533333
+        ]
+      },
+      "properties": {
+        "observation_id": 366100486,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2025-01-01",
+        "uri": "https://www.inaturalist.org/observations/366100486",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1929140613,
+          28.601893452
+        ]
+      },
+      "properties": {
+        "observation_id": 366082962,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-28",
+        "uri": "https://www.inaturalist.org/observations/366082962",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2009327766,
+          28.6024916265
+        ]
+      },
+      "properties": {
+        "observation_id": 366045638,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-27",
+        "uri": "https://www.inaturalist.org/observations/366045638",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1927463412,
+          28.6037817242
+        ]
+      },
+      "properties": {
+        "observation_id": 366045018,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-28",
+        "uri": "https://www.inaturalist.org/observations/366045018",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1916030138,
+          28.6032133895
+        ]
+      },
+      "properties": {
+        "observation_id": 366026442,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-28",
+        "uri": "https://www.inaturalist.org/observations/366026442",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1053714469,
+          27.0000887934
+        ]
+      },
+      "properties": {
+        "observation_id": 365902311,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-04-23",
+        "uri": "https://www.inaturalist.org/observations/365902311",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.934805,
+          22.2938283333
+        ]
+      },
+      "properties": {
+        "observation_id": 365743141,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-27",
+        "uri": "https://www.inaturalist.org/observations/365743141",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.19144777,
+          28.60352186
+        ]
+      },
+      "properties": {
+        "observation_id": 365720185,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-27",
+        "uri": "https://www.inaturalist.org/observations/365720185",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9117267997,
+          26.8592267997
+        ]
+      },
+      "properties": {
+        "observation_id": 365488808,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-26",
+        "uri": "https://www.inaturalist.org/observations/365488808",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.29138,
+          31.9373333333
+        ]
+      },
+      "properties": {
+        "observation_id": 364916184,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-24",
+        "uri": "https://www.inaturalist.org/observations/364916184",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4427483333,
+          27.7071616667
+        ]
+      },
+      "properties": {
+        "observation_id": 364772916,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-24",
+        "uri": "https://www.inaturalist.org/observations/364772916",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1897133333,
+          26.225045
+        ]
+      },
+      "properties": {
+        "observation_id": 364739100,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-24",
+        "uri": "https://www.inaturalist.org/observations/364739100",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0691825968,
+          33.9317814857
+        ]
+      },
+      "properties": {
+        "observation_id": 364393233,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-23",
+        "uri": "https://www.inaturalist.org/observations/364393233",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4084017874,
+          25.6031187717
+        ]
+      },
+      "properties": {
+        "observation_id": 364096386,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-03-11",
+        "uri": "https://www.inaturalist.org/observations/364096386",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.19181913,
+          28.60264886
+        ]
+      },
+      "properties": {
+        "observation_id": 364072728,
+        "taxon_id": 242257,
+        "scientific_name": "Pinus elliottii elliottii",
+        "common_name": "Typical Slash Pine",
+        "observed_on": "2026-05-22",
+        "uri": "https://www.inaturalist.org/observations/364072728",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6062787459,
+          27.8506299939
+        ]
+      },
+      "properties": {
+        "observation_id": 363999090,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-22",
+        "uri": "https://www.inaturalist.org/observations/363999090",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3799805556,
+          24.7053
+        ]
+      },
+      "properties": {
+        "observation_id": 363483160,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-20",
+        "uri": "https://www.inaturalist.org/observations/363483160",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2833548175,
+          29.9663260325
+        ]
+      },
+      "properties": {
+        "observation_id": 363368390,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-20",
+        "uri": "https://www.inaturalist.org/observations/363368390",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0615411086,
+          29.0355637323
+        ]
+      },
+      "properties": {
+        "observation_id": 363209269,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-01",
+        "uri": "https://www.inaturalist.org/observations/363209269",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4076,
+          25.5994333333
+        ]
+      },
+      "properties": {
+        "observation_id": 363163876,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-05-19",
+        "uri": "https://www.inaturalist.org/observations/363163876",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3462966667,
+          26.1610666667
+        ]
+      },
+      "properties": {
+        "observation_id": 363059394,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-13",
+        "uri": "https://www.inaturalist.org/observations/363059394",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1916883333,
+          25.97013
+        ]
+      },
+      "properties": {
+        "observation_id": 362916145,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-05-15",
+        "uri": "https://www.inaturalist.org/observations/362916145",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.652671814,
+          25.4056797028
+        ]
+      },
+      "properties": {
+        "observation_id": 362847857,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-05-18",
+        "uri": "https://www.inaturalist.org/observations/362847857",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1738966667,
+          26.6385333333
+        ]
+      },
+      "properties": {
+        "observation_id": 362770603,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-18",
+        "uri": "https://www.inaturalist.org/observations/362770603",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.348035031,
+          28.0854962568
+        ]
+      },
+      "properties": {
+        "observation_id": 362730886,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-03-17",
+        "uri": "https://www.inaturalist.org/observations/362730886",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5233850515,
+          27.2584426776
+        ]
+      },
+      "properties": {
+        "observation_id": 362730848,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-03-24",
+        "uri": "https://www.inaturalist.org/observations/362730848",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7156849802,
+          26.0785559099
+        ]
+      },
+      "properties": {
+        "observation_id": 362549032,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-17",
+        "uri": "https://www.inaturalist.org/observations/362549032",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7137334217,
+          26.0739250342
+        ]
+      },
+      "properties": {
+        "observation_id": 362543810,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-17",
+        "uri": "https://www.inaturalist.org/observations/362543810",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9115398001,
+          30.52435734
+        ]
+      },
+      "properties": {
+        "observation_id": 362542408,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-16",
+        "uri": "https://www.inaturalist.org/observations/362542408",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1482138889,
+          26.7774611111
+        ]
+      },
+      "properties": {
+        "observation_id": 362390181,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-17",
+        "uri": "https://www.inaturalist.org/observations/362390181",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6297388432,
+          25.3891496406
+        ]
+      },
+      "properties": {
+        "observation_id": 362145724,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-05-16",
+        "uri": "https://www.inaturalist.org/observations/362145724",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1910633333,
+          25.9708033333
+        ]
+      },
+      "properties": {
+        "observation_id": 362122644,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-15",
+        "uri": "https://www.inaturalist.org/observations/362122644",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.169229,
+          28.8072
+        ]
+      },
+      "properties": {
+        "observation_id": 362082324,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-16",
+        "uri": "https://www.inaturalist.org/observations/362082324",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4920054328,
+          29.7823799206
+        ]
+      },
+      "properties": {
+        "observation_id": 361965199,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-16",
+        "uri": "https://www.inaturalist.org/observations/361965199",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0578420613,
+          26.5637578642
+        ]
+      },
+      "properties": {
+        "observation_id": 361655956,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-13",
+        "uri": "https://www.inaturalist.org/observations/361655956",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7313466667,
+          26.053825
+        ]
+      },
+      "properties": {
+        "observation_id": 361438086,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-05-14",
+        "uri": "https://www.inaturalist.org/observations/361438086",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5091804441,
+          27.3617549303
+        ]
+      },
+      "properties": {
+        "observation_id": 361222343,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-13",
+        "uri": "https://www.inaturalist.org/observations/361222343",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60385,
+          27.84925
+        ]
+      },
+      "properties": {
+        "observation_id": 361195410,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2021-12-23",
+        "uri": "https://www.inaturalist.org/observations/361195410",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2756195068,
+          29.8670368195
+        ]
+      },
+      "properties": {
+        "observation_id": 360906009,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-07",
+        "uri": "https://www.inaturalist.org/observations/360906009",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1732333333,
+          28.02715
+        ]
+      },
+      "properties": {
+        "observation_id": 360852129,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-12",
+        "uri": "https://www.inaturalist.org/observations/360852129",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9868383333,
+          28.4997966667
+        ]
+      },
+      "properties": {
+        "observation_id": 360745304,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-11",
+        "uri": "https://www.inaturalist.org/observations/360745304",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8304329722,
+          28.078264
+        ]
+      },
+      "properties": {
+        "observation_id": 360729640,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-05-09",
+        "uri": "https://www.inaturalist.org/observations/360729640",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5058549722,
+          25.4424869722
+        ]
+      },
+      "properties": {
+        "observation_id": 360576445,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-05-10",
+        "uri": "https://www.inaturalist.org/observations/360576445",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.372652,
+          24.7003869722
+        ]
+      },
+      "properties": {
+        "observation_id": 360504804,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-05-09",
+        "uri": "https://www.inaturalist.org/observations/360504804",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3733419722,
+          24.700188
+        ]
+      },
+      "properties": {
+        "observation_id": 360489960,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-05-09",
+        "uri": "https://www.inaturalist.org/observations/360489960",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3734319722,
+          24.700327
+        ]
+      },
+      "properties": {
+        "observation_id": 360489785,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-05-09",
+        "uri": "https://www.inaturalist.org/observations/360489785",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1233513946,
+          26.7769536099
+        ]
+      },
+      "properties": {
+        "observation_id": 360483081,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-04-26",
+        "uri": "https://www.inaturalist.org/observations/360483081",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3678519722,
+          24.692592
+        ]
+      },
+      "properties": {
+        "observation_id": 360462180,
+        "taxon_id": 242256,
+        "scientific_name": "Pinus elliottii densa",
+        "common_name": "South Florida slash pine",
+        "observed_on": "2026-05-09",
+        "uri": "https://www.inaturalist.org/observations/360462180",
+        "taxon_rank": "variety",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0658638333,
+          26.8864133333
+        ]
+      },
+      "properties": {
+        "observation_id": 360370477,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-04-24",
+        "uri": "https://www.inaturalist.org/observations/360370477",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2484356799,
+          27.1545622358
+        ]
+      },
+      "properties": {
+        "observation_id": 360217943,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-03-26",
+        "uri": "https://www.inaturalist.org/observations/360217943",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2140583333,
+          26.8538361111
+        ]
+      },
+      "properties": {
+        "observation_id": 360203363,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-04-25",
+        "uri": "https://www.inaturalist.org/observations/360203363",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3398555458,
+          25.6347737589
+        ]
+      },
+      "properties": {
+        "observation_id": 360187852,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-04-27",
+        "uri": "https://www.inaturalist.org/observations/360187852",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0731195,
+          26.8569033333
+        ]
+      },
+      "properties": {
+        "observation_id": 359712358,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-04-25",
+        "uri": "https://www.inaturalist.org/observations/359712358",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1231221667,
+          26.77552
+        ]
+      },
+      "properties": {
+        "observation_id": 359712096,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-04-25",
+        "uri": "https://www.inaturalist.org/observations/359712096",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0758888333,
+          26.8569166667
+        ]
+      },
+      "properties": {
+        "observation_id": 359698625,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-04-25",
+        "uri": "https://www.inaturalist.org/observations/359698625",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1251528333,
+          26.7776166667
+        ]
+      },
+      "properties": {
+        "observation_id": 359483691,
+        "taxon_id": 69985,
+        "scientific_name": "Pinus elliottii",
+        "common_name": "slash pine",
+        "observed_on": "2026-04-26",
+        "uri": "https://www.inaturalist.org/observations/359483691",
         "taxon_rank": "species",
         "iconic_taxon": "Plantae"
       }
