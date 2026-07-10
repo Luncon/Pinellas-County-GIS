@@ -6,6 +6,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -96.6150583333,
+          33.158425
+        ]
+      },
+      "properties": {
+        "observation_id": 380044920,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-10",
+        "uri": "https://www.inaturalist.org/observations/380044920",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7709295956,
+          30.3127077084
+        ]
+      },
+      "properties": {
+        "observation_id": 379992975,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2025-09-07",
+        "uri": "https://www.inaturalist.org/observations/379992975",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.375206,
           27.4863229722
         ]
@@ -14,10 +54,11 @@
         "observation_id": 379906814,
         "taxon_id": 49193,
         "scientific_name": "Callicarpa americana",
-        "common_name": "American beautyberry",
+        "common_name": null,
         "observed_on": "2026-07-09",
         "uri": "https://www.inaturalist.org/observations/379906814",
-        "taxon_rank": "species"
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
       }
     },
     {
@@ -33,10 +74,11 @@
         "observation_id": 379896776,
         "taxon_id": 49193,
         "scientific_name": "Callicarpa americana",
-        "common_name": "American beautyberry",
+        "common_name": null,
         "observed_on": "2026-07-02",
         "uri": "https://www.inaturalist.org/observations/379896776",
-        "taxon_rank": "species"
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
       }
     },
     {
@@ -52,10 +94,11 @@
         "observation_id": 379891824,
         "taxon_id": 49193,
         "scientific_name": "Callicarpa americana",
-        "common_name": "American beautyberry",
+        "common_name": null,
         "observed_on": "2026-07-09",
         "uri": "https://www.inaturalist.org/observations/379891824",
-        "taxon_rank": "species"
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
       }
     },
     {
@@ -71,10 +114,11 @@
         "observation_id": 379884310,
         "taxon_id": 49193,
         "scientific_name": "Callicarpa americana",
-        "common_name": "American beautyberry",
+        "common_name": null,
         "observed_on": "2026-07-09",
         "uri": "https://www.inaturalist.org/observations/379884310",
-        "taxon_rank": "species"
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
       }
     },
     {
@@ -90,10 +134,11 @@
         "observation_id": 379884309,
         "taxon_id": 49193,
         "scientific_name": "Callicarpa americana",
-        "common_name": "American beautyberry",
+        "common_name": null,
         "observed_on": "2026-07-09",
         "uri": "https://www.inaturalist.org/observations/379884309",
-        "taxon_rank": "species"
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
       }
     },
     {
@@ -109,10 +154,11 @@
         "observation_id": 379884308,
         "taxon_id": 49193,
         "scientific_name": "Callicarpa americana",
-        "common_name": "American beautyberry",
+        "common_name": null,
         "observed_on": "2026-07-09",
         "uri": "https://www.inaturalist.org/observations/379884308",
-        "taxon_rank": "species"
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
       }
     },
     {
@@ -128,10 +174,11 @@
         "observation_id": 379846739,
         "taxon_id": 49193,
         "scientific_name": "Callicarpa americana",
-        "common_name": "American beautyberry",
+        "common_name": null,
         "observed_on": "2026-07-09",
         "uri": "https://www.inaturalist.org/observations/379846739",
-        "taxon_rank": "species"
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
       }
     },
     {
@@ -147,10 +194,11 @@
         "observation_id": 379835217,
         "taxon_id": 49193,
         "scientific_name": "Callicarpa americana",
-        "common_name": "American beautyberry",
+        "common_name": null,
         "observed_on": "2026-07-09",
         "uri": "https://www.inaturalist.org/observations/379835217",
-        "taxon_rank": "species"
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
       }
     },
     {
@@ -166,10 +214,11 @@
         "observation_id": 379831913,
         "taxon_id": 49193,
         "scientific_name": "Callicarpa americana",
-        "common_name": "American beautyberry",
+        "common_name": null,
         "observed_on": "2026-07-09",
         "uri": "https://www.inaturalist.org/observations/379831913",
-        "taxon_rank": "species"
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
       }
     },
     {
@@ -185,10 +234,1771 @@
         "observation_id": 379826275,
         "taxon_id": 49193,
         "scientific_name": "Callicarpa americana",
-        "common_name": "American beautyberry",
+        "common_name": null,
         "observed_on": "2026-07-09",
         "uri": "https://www.inaturalist.org/observations/379826275",
-        "taxon_rank": "species"
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4416136337,
+          27.2389587272
+        ]
+      },
+      "properties": {
+        "observation_id": 379793797,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2025-08-10",
+        "uri": "https://www.inaturalist.org/observations/379793797",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4809237036,
+          28.0749724527
+        ]
+      },
+      "properties": {
+        "observation_id": 379770374,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2025-10-10",
+        "uri": "https://www.inaturalist.org/observations/379770374",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8753883333,
+          30.265655
+        ]
+      },
+      "properties": {
+        "observation_id": 379747313,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379747313",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3742706423,
+          28.0724846106
+        ]
+      },
+      "properties": {
+        "observation_id": 379740842,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379740842",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3036259365,
+          33.7858489241
+        ]
+      },
+      "properties": {
+        "observation_id": 379703086,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379703086",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1494609309,
+          33.2085461517
+        ]
+      },
+      "properties": {
+        "observation_id": 379680324,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379680324",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1951916667,
+          30.3198866667
+        ]
+      },
+      "properties": {
+        "observation_id": 379625355,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2021-08-27",
+        "uri": "https://www.inaturalist.org/observations/379625355",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8235632811,
+          30.4499387998
+        ]
+      },
+      "properties": {
+        "observation_id": 379580365,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/379580365",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1770167192,
+          34.1560082016
+        ]
+      },
+      "properties": {
+        "observation_id": 379561821,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379561821",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4985722674,
+          27.8731319606
+        ]
+      },
+      "properties": {
+        "observation_id": 379555239,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/379555239",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6434742363,
+          27.5204857731
+        ]
+      },
+      "properties": {
+        "observation_id": 379542079,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/379542079",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.60967353,
+          32.54777805
+        ]
+      },
+      "properties": {
+        "observation_id": 379536964,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/379536964",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2747633333,
+          30.3685033333
+        ]
+      },
+      "properties": {
+        "observation_id": 379532055,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/379532055",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0560193611,
+          26.5711604334
+        ]
+      },
+      "properties": {
+        "observation_id": 379519514,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/379519514",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0558392154,
+          26.5712497565
+        ]
+      },
+      "properties": {
+        "observation_id": 379519385,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/379519385",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0070630966,
+          36.886607217
+        ]
+      },
+      "properties": {
+        "observation_id": 379502190,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/379502190",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.18937,
+          28.83085
+        ]
+      },
+      "properties": {
+        "observation_id": 379500634,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/379500634",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6565160716,
+          33.903898468
+        ]
+      },
+      "properties": {
+        "observation_id": 379483317,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/379483317",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2445991467,
+          33.2323713564
+        ]
+      },
+      "properties": {
+        "observation_id": 379363215,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/379363215",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4637647419,
+          30.1393275124
+        ]
+      },
+      "properties": {
+        "observation_id": 379362487,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-26",
+        "uri": "https://www.inaturalist.org/observations/379362487",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7283730215,
+          35.3058089465
+        ]
+      },
+      "properties": {
+        "observation_id": 379278467,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-04-15",
+        "uri": "https://www.inaturalist.org/observations/379278467",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.936356077,
+          30.3086080015
+        ]
+      },
+      "properties": {
+        "observation_id": 379249893,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-06",
+        "uri": "https://www.inaturalist.org/observations/379249893",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6187154673,
+          29.3172338753
+        ]
+      },
+      "properties": {
+        "observation_id": 379248185,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-17",
+        "uri": "https://www.inaturalist.org/observations/379248185",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3278283333,
+          37.8628
+        ]
+      },
+      "properties": {
+        "observation_id": 379236900,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379236900",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4646801083,
+          33.5889496571
+        ]
+      },
+      "properties": {
+        "observation_id": 379219398,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379219398",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8649630099,
+          30.7963031863
+        ]
+      },
+      "properties": {
+        "observation_id": 379213577,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379213577",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5081866667,
+          27.6385083333
+        ]
+      },
+      "properties": {
+        "observation_id": 379201279,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379201279",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5493225,
+          27.3716287997
+        ]
+      },
+      "properties": {
+        "observation_id": 379189727,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379189727",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8942337781,
+          35.1697817656
+        ]
+      },
+      "properties": {
+        "observation_id": 379186543,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379186543",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6218805,
+          33.1638262997
+        ]
+      },
+      "properties": {
+        "observation_id": 379124204,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379124204",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3855283333,
+          29.6859133333
+        ]
+      },
+      "properties": {
+        "observation_id": 379111980,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379111980",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4849408966,
+          33.909808671
+        ]
+      },
+      "properties": {
+        "observation_id": 379109551,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379109551",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6116722222,
+          28.3304305556
+        ]
+      },
+      "properties": {
+        "observation_id": 378971068,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-06",
+        "uri": "https://www.inaturalist.org/observations/378971068",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2884020997,
+          30.8050032
+        ]
+      },
+      "properties": {
+        "observation_id": 378845730,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378845730",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6831291095,
+          32.087907592
+        ]
+      },
+      "properties": {
+        "observation_id": 378844838,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-06",
+        "uri": "https://www.inaturalist.org/observations/378844838",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.781400109,
+          35.0366429641
+        ]
+      },
+      "properties": {
+        "observation_id": 378826114,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-06",
+        "uri": "https://www.inaturalist.org/observations/378826114",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2102163211,
+          29.6367756913
+        ]
+      },
+      "properties": {
+        "observation_id": 378796375,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-06",
+        "uri": "https://www.inaturalist.org/observations/378796375",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4657377149,
+          28.71327483
+        ]
+      },
+      "properties": {
+        "observation_id": 378752758,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-06",
+        "uri": "https://www.inaturalist.org/observations/378752758",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5416113997,
+          31.6037503997
+        ]
+      },
+      "properties": {
+        "observation_id": 378642895,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378642895",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4384895997,
+          30.1241728
+        ]
+      },
+      "properties": {
+        "observation_id": 378626922,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-02",
+        "uri": "https://www.inaturalist.org/observations/378626922",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1274461593,
+          30.3423467643
+        ]
+      },
+      "properties": {
+        "observation_id": 378610600,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2015-10-10",
+        "uri": "https://www.inaturalist.org/observations/378610600",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.778254,
+          30.417457
+        ]
+      },
+      "properties": {
+        "observation_id": 378609294,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378609294",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3308661975,
+          28.870257154
+        ]
+      },
+      "properties": {
+        "observation_id": 378596591,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378596591",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3021685393,
+          30.7460825177
+        ]
+      },
+      "properties": {
+        "observation_id": 378541801,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378541801",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2724958995,
+          30.5576266946
+        ]
+      },
+      "properties": {
+        "observation_id": 378515283,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-02",
+        "uri": "https://www.inaturalist.org/observations/378515283",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4912472222,
+          30.3837916667
+        ]
+      },
+      "properties": {
+        "observation_id": 378490596,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378490596",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3287583333,
+          29.6214133333
+        ]
+      },
+      "properties": {
+        "observation_id": 378465260,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2022-07-13",
+        "uri": "https://www.inaturalist.org/observations/378465260",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4177093506,
+          34.79164505
+        ]
+      },
+      "properties": {
+        "observation_id": 378454406,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378454406",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2084587442,
+          27.8538536577
+        ]
+      },
+      "properties": {
+        "observation_id": 378453851,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378453851",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7669083333,
+          31.3612277778
+        ]
+      },
+      "properties": {
+        "observation_id": 378377421,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-16",
+        "uri": "https://www.inaturalist.org/observations/378377421",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9356460556,
+          35.1218261667
+        ]
+      },
+      "properties": {
+        "observation_id": 378233253,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-04",
+        "uri": "https://www.inaturalist.org/observations/378233253",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6084276172,
+          29.8398022918
+        ]
+      },
+      "properties": {
+        "observation_id": 378169512,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-27",
+        "uri": "https://www.inaturalist.org/observations/378169512",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3108583333,
+          35.3854466667
+        ]
+      },
+      "properties": {
+        "observation_id": 378168129,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2023-10-07",
+        "uri": "https://www.inaturalist.org/observations/378168129",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9421005,
+          35.1177291667
+        ]
+      },
+      "properties": {
+        "observation_id": 378137543,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-04",
+        "uri": "https://www.inaturalist.org/observations/378137543",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54545,
+          28.5031583333
+        ]
+      },
+      "properties": {
+        "observation_id": 378134498,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-04",
+        "uri": "https://www.inaturalist.org/observations/378134498",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8268463239,
+          30.2243057833
+        ]
+      },
+      "properties": {
+        "observation_id": 378098228,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-25",
+        "uri": "https://www.inaturalist.org/observations/378098228",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1170572997,
+          33.6720855
+        ]
+      },
+      "properties": {
+        "observation_id": 378069036,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-27",
+        "uri": "https://www.inaturalist.org/observations/378069036",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4202333333,
+          28.9601111111
+        ]
+      },
+      "properties": {
+        "observation_id": 378064175,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-04",
+        "uri": "https://www.inaturalist.org/observations/378064175",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.140519181,
+          30.3235135322
+        ]
+      },
+      "properties": {
+        "observation_id": 378046313,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2025-10-25",
+        "uri": "https://www.inaturalist.org/observations/378046313",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1203790997,
+          33.6704727997
+        ]
+      },
+      "properties": {
+        "observation_id": 378029038,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-21",
+        "uri": "https://www.inaturalist.org/observations/378029038",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.070275,
+          26.3671833333
+        ]
+      },
+      "properties": {
+        "observation_id": 378023607,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-01",
+        "uri": "https://www.inaturalist.org/observations/378023607",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3965275518,
+          33.8567863014
+        ]
+      },
+      "properties": {
+        "observation_id": 377931674,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377931674",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2959263358,
+          35.4374035622
+        ]
+      },
+      "properties": {
+        "observation_id": 377922599,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377922599",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.437987,
+          27.5634799722
+        ]
+      },
+      "properties": {
+        "observation_id": 377903842,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377903842",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8235,
+          31.8147138889
+        ]
+      },
+      "properties": {
+        "observation_id": 377878876,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-23",
+        "uri": "https://www.inaturalist.org/observations/377878876",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4357399722,
+          27.559991
+        ]
+      },
+      "properties": {
+        "observation_id": 377869665,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377869665",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.33470832,
+          28.78730393
+        ]
+      },
+      "properties": {
+        "observation_id": 377848596,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377848596",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9830548213,
+          28.5758070248
+        ]
+      },
+      "properties": {
+        "observation_id": 377843440,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377843440",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.240975,
+          35.2158666667
+        ]
+      },
+      "properties": {
+        "observation_id": 377839157,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377839157",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4429822,
+          28.8547250997
+        ]
+      },
+      "properties": {
+        "observation_id": 377835148,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377835148",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7261691885,
+          30.1852266403
+        ]
+      },
+      "properties": {
+        "observation_id": 377834822,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-25",
+        "uri": "https://www.inaturalist.org/observations/377834822",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7261691885,
+          30.1852266403
+        ]
+      },
+      "properties": {
+        "observation_id": 377834802,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-25",
+        "uri": "https://www.inaturalist.org/observations/377834802",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4433733333,
+          28.8544316667
+        ]
+      },
+      "properties": {
+        "observation_id": 377815866,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377815866",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6192762209,
+          30.6411466206
+        ]
+      },
+      "properties": {
+        "observation_id": 377808940,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377808940",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3363313263,
+          30.5836144592
+        ]
+      },
+      "properties": {
+        "observation_id": 377800298,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-27",
+        "uri": "https://www.inaturalist.org/observations/377800298",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0404805556,
+          36.9160388889
+        ]
+      },
+      "properties": {
+        "observation_id": 377797239,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2018-09-30",
+        "uri": "https://www.inaturalist.org/observations/377797239",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.336454487,
+          30.5825961043
+        ]
+      },
+      "properties": {
+        "observation_id": 377796693,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-27",
+        "uri": "https://www.inaturalist.org/observations/377796693",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5888027139,
+          30.0029673864
+        ]
+      },
+      "properties": {
+        "observation_id": 377795642,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377795642",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9113783333,
+          33.9064783333
+        ]
+      },
+      "properties": {
+        "observation_id": 377759358,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377759358",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1167513997,
+          33.6720538
+        ]
+      },
+      "properties": {
+        "observation_id": 377733717,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-14",
+        "uri": "https://www.inaturalist.org/observations/377733717",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8543757945,
+          33.743358832
+        ]
+      },
+      "properties": {
+        "observation_id": 377727786,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377727786",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4077216667,
+          34.0209778333
+        ]
+      },
+      "properties": {
+        "observation_id": 377720540,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377720540",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1028119104,
+          26.3779896889
+        ]
+      },
+      "properties": {
+        "observation_id": 377720199,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377720199",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1204077,
+          33.670461
+        ]
+      },
+      "properties": {
+        "observation_id": 377711317,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-07",
+        "uri": "https://www.inaturalist.org/observations/377711317",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4623916667,
+          34.1686611111
+        ]
+      },
+      "properties": {
+        "observation_id": 377705596,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377705596",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3450101533,
+          30.4672782021
+        ]
+      },
+      "properties": {
+        "observation_id": 377656835,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-27",
+        "uri": "https://www.inaturalist.org/observations/377656835",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3431714839,
+          30.4671888068
+        ]
+      },
+      "properties": {
+        "observation_id": 377654128,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-06-27",
+        "uri": "https://www.inaturalist.org/observations/377654128",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.272645,
+          30.5574533333
+        ]
+      },
+      "properties": {
+        "observation_id": 377651352,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": null,
+        "observed_on": "2026-07-02",
+        "uri": "https://www.inaturalist.org/observations/377651352",
+        "taxon_rank": "species",
+        "iconic_taxon": "Plantae"
       }
     }
   ]
