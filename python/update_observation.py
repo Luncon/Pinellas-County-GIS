@@ -52,23 +52,33 @@ def create_feature(observation):
     return feature
 
 
-observations = fetch_observations(species_name)
+def create_features(observations):
+    features = []
 
-features = []
+    for observation in observations:
+        feature = create_feature(observation)
+        features.append(feature)
+    
+    return features
 
-for observation in observations:
-    feature = create_feature(observation)
-    features.append(feature)
-
-geojson = {
+def save_geojson(features):
+    geojson = {
         "type": "FeatureCollection",
-        "features": features 
+        "features": features,
         }
 
-print(json.dumps(geojson, indent=2))
+    with open("../observations/observations.geojson", "w", encoding="utf-8") as file:
+        json.dump(geojson, file, indent=2)
 
-with open("../observations/observations.geojson", "w", encoding="utf-8") as file:
-    json.dump(geojson, file, indent=2)
+
+
+observations = fetch_observations(species_name)
+
+features = create_features(observations)
+        
+geojson = save_geojson(features)
+
+
 
 
 
