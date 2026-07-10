@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.375206,
+          27.4863229722
+        ]
+      },
+      "properties": {
+        "observation_id": 379906814,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": "American beautyberry",
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379906814",
+        "taxon_rank": "species"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1091394337,
+          26.8940561157
+        ]
+      },
+      "properties": {
+        "observation_id": 379896776,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": "American beautyberry",
+        "observed_on": "2026-07-02",
+        "uri": "https://www.inaturalist.org/observations/379896776",
+        "taxon_rank": "species"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.174386,
+          28.6153
+        ]
+      },
+      "properties": {
+        "observation_id": 379891824,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": "American beautyberry",
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379891824",
+        "taxon_rank": "species"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0846132518,
+          38.8955394463
+        ]
+      },
+      "properties": {
+        "observation_id": 379884310,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": "American beautyberry",
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379884310",
+        "taxon_rank": "species"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.11955537,
+          38.9561950494
+        ]
+      },
+      "properties": {
+        "observation_id": 379884309,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": "American beautyberry",
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379884309",
+        "taxon_rank": "species"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1780190272,
+          38.909582933
+        ]
+      },
+      "properties": {
+        "observation_id": 379884308,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": "American beautyberry",
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379884308",
+        "taxon_rank": "species"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6072488112,
+          30.2753194557
+        ]
+      },
+      "properties": {
+        "observation_id": 379846739,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": "American beautyberry",
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379846739",
+        "taxon_rank": "species"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36953,
+          29.63333
+        ]
+      },
+      "properties": {
+        "observation_id": 379835217,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": "American beautyberry",
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379835217",
+        "taxon_rank": "species"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0442416667,
+          27.8767083333
+        ]
+      },
+      "properties": {
+        "observation_id": 379831913,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": "American beautyberry",
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379831913",
+        "taxon_rank": "species"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2845189356,
+          25.8218662705
+        ]
+      },
+      "properties": {
+        "observation_id": 379826275,
+        "taxon_id": 49193,
+        "scientific_name": "Callicarpa americana",
+        "common_name": "American beautyberry",
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379826275",
+        "taxon_rank": "species"
+      }
+    }
+  ]
+}
