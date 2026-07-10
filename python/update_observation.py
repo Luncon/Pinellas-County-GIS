@@ -26,47 +26,49 @@ observations = data['results']
 
 print(f'Found {len(observations)} observations for {species_name}')
 
+features = []
 
 #Extract species, date, lattitude, longitude
-observation = observations[0]
+for observation in observations:
 
-taxon = observation["taxon"]
+    taxon = observation["taxon"]
+    observation_id = observation["id"]
+    taxon_id = taxon["id"]
+    common_name = taxon["preferred_common_name"]
+    scientific_name = taxon['name']
+    observed_on = observation.get('observed_on')
+    uri = observation['uri']
+    rank = taxon['rank']
+    iconic_taxon = taxon['iconic_taxon_name']
 
-observation_id = observation["id"]
-taxon_id = taxon["id"]
-common_name = taxon["preferred_common_name"]
-scientific_name = taxon['name']
-observed_on = observation.get('observed_on')
-uri = observation['uri']
-rank = taxon['rank']
-iconic_taxon = taxon['iconic_taxon_name']
+    #print(json.dumps(observation["geojson"], indent=2))
 
-#print(json.dumps(observation["geojson"], indent=2))
-
-
-properties = {
-        "observation_id": observation_id,
-        "taxon_id": taxon_id,
-        "scientific_name": scientific_name,
-        "common_name": common_name,
-        "observed_on": observed_on,
-        "uri": uri,
-        "taxon_rank": rank,
-    }
-
-
-feature = {
-        "type": "Feature",
-        "geometry": observation["geojson"],
-        "properties" : properties
+    properties = {
+            "observation_id": observation_id,
+            "taxon_id": taxon_id,
+            "scientific_name": scientific_name,
+            "common_name": common_name,
+            "observed_on": observed_on,
+            "uri": uri,
+            "taxon_rank": rank,
         }
 
-print(json.dumps(feature, indent=2))
 
-for index, observation in enumerate(observations, start=1):
-    species = observation.get('species_guess')
-    observed_on = observation.get('observed_on')
-    location = observation.get('location')
+    feature = {
+            "type": "Feature",
+            "geometry": observation["geojson"],
+            "properties" : properties
+            }
+    
+    features.append(feature)
+    
 
-    print(f"{index}. {species} | {observed_on} | {location}")
+geojson = {
+        "type": "FeatureCollection",
+        "features": features
+        }
 
+print(json.dumps(geojson, indent=2))
+
+with open("../observations/observations.geojson", "w", encoding="utf-8") as file:
+    json.dump(geojson, file, indent=2)
