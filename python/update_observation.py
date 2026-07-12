@@ -2,6 +2,7 @@ import requests
 import sys
 import json
 from shapely.geometry import shape
+import argparse
 
 def fetch_all_observations(species_name, max_pages=10, place_id=None):
     all_observations = []
@@ -70,46 +71,94 @@ def create_features(observations):
     return features
 
 def save_geojson(features):
+    output_path = "../observations/observations.geojson" 
+
     geojson = {
         "type": "FeatureCollection",
         "features": features,
         }
 
-    with open("../observations/observations.geojson", "w", encoding="utf-8") as file:
+    with open(output_path, "w", encoding="utf-8") as file:
         json.dump(geojson, file, indent=2)
 
-def load_boundary():
+    print(f"Saved GeoJSON to {output_path}")
 
-    with open("../vectors/pinellas_boundary.geojson", "r", encoding="utf-8") as file:
+def load_boundary(boundary_file):
+
+    with open(f"../vectors/{boundary_file}", "r", encoding="utf-8") as file:
         boundary = json.load(file)
         
         return boundary
 
+def filter_observations_by_boundary(observations, boundary_geometry):
+    filtered_observations = []
+
+    for observation in observations:
+        observation_geometry = shape(observation["geojson"])
+
+        if boundary_geometry.covers(observation_geometry):
+            filtered_observations.append(observation)
+
+    return filtered_observations
 
 
 if __name__ == "__main__":
 
-    if len(sys.argv) < 2:
-        print("Usage: python update_observation.py \"Species Name\"")
+    parser = argparse.ArgumentParser(
+            description="Download INaturalist observations and export them as GeoJSON."
+            )
+
+    parser.add_argument(
+            "--species",
+            required=True,
+            help="Scientific name of the species"
+            )
+
+    parser.add_argument(
+            "--boundary",
+            default=None,
+            help="Boundary GeoJSON file"
+            )
+
+    parser.add_argument(
+            "--place-id",
+            type=int,
+            default=None,
+            help="INaturalist place ID"
+            )
+        
+    args = parser.parse_args()
+
+    species_name = args.species
+    place_id = args.place_id
+    boundary_file = args.boundary
+
+
+    if len(sys.argv) < 4:
+        print("Usage: python update_observation.py \"Species Name\" \"place_id\" \"boundary_file.geojson\"" )
         sys.exit(1)
 
-    species_name = sys.argv[1]
-    max_pages = 12 #sys.argv[2]
+    max_pages = 12 
+    
+    boundary = load_boundary(boundary_file)
 
-    place_id = None
+    boundary_geometry = shape(
+            boundary['features'][0]["geometry"]
+            )
 
-
-    boundary = load_boundary()
-
-    boundary_geometry = shape(boundary['features'][0]["geometry"])
-
-
-    print(boundary["features"][0]["geometry"]["type"])   
+   
     observations = fetch_all_observations(species_name, max_pages, place_id)
 
-    features = create_features(observations)
-            
-    geojson = save_geojson(features)
+    filtered_observations = filter_observations_by_boundary(
+            observations,
+            boundary_geometry
+        )
+
+    features = create_features(filtered_observations)
+
+    print(f"Inside boundary: {len(filtered_observations)}")
+
+    save_geojson(features)
 
 
 

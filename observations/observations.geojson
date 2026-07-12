@@ -6,19 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.5778116667,
-          28.7644916667
+          -82.8113783333,
+          27.882
         ]
       },
       "properties": {
-        "observation_id": 379556401,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/379556401",
+        "observation_id": 380674565,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-12",
+        "uri": "https://www.inaturalist.org/observations/380674565",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -26,119 +26,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.0946582317,
-          26.4113527207
+          -82.8465366667,
+          27.8924616667
         ]
       },
       "properties": {
-        "observation_id": 379528898,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-07-08",
-        "uri": "https://www.inaturalist.org/observations/379528898",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.5089633333,
-          27.6380216667
-        ]
-      },
-      "properties": {
-        "observation_id": 379201635,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-07-07",
-        "uri": "https://www.inaturalist.org/observations/379201635",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.7191885997,
-          32.032083
-        ]
-      },
-      "properties": {
-        "observation_id": 379176908,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-03-24",
-        "uri": "https://www.inaturalist.org/observations/379176908",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.8226783333,
-          30.19715
-        ]
-      },
-      "properties": {
-        "observation_id": 379144372,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-07-07",
-        "uri": "https://www.inaturalist.org/observations/379144372",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.6253290875,
-          28.0341441127
-        ]
-      },
-      "properties": {
-        "observation_id": 378807801,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-06-10",
-        "uri": "https://www.inaturalist.org/observations/378807801",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.64193,
-          28.3173033333
-        ]
-      },
-      "properties": {
-        "observation_id": 378795474,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
+        "observation_id": 380302870,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
         "observed_on": "2026-07-06",
-        "uri": "https://www.inaturalist.org/observations/378795474",
+        "uri": "https://www.inaturalist.org/observations/380302870",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -146,19 +46,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -53.7763018997,
-          -34.3578801997
+          -82.810005,
+          27.8819666667
         ]
       },
       "properties": {
-        "observation_id": 378655039,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-29",
-        "uri": "https://www.inaturalist.org/observations/378655039",
+        "observation_id": 379995948,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2024-05-16",
+        "uri": "https://www.inaturalist.org/observations/379995948",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -166,19 +66,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7183916667,
-          26.1091166667
+          -82.811355,
+          27.8809
         ]
       },
       "properties": {
-        "observation_id": 378628764,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-08",
-        "uri": "https://www.inaturalist.org/observations/378628764",
+        "observation_id": 379995784,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2025-05-14",
+        "uri": "https://www.inaturalist.org/observations/379995784",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -186,19 +86,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.5630411,
-          28.6178389997
+          -82.84637,
+          27.8925116667
         ]
       },
       "properties": {
-        "observation_id": 378614316,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/378614316",
+        "observation_id": 379802243,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/379802243",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -206,19 +106,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.5628499722,
-          28.617663
+          -82.8118133333,
+          27.8811166667
         ]
       },
       "properties": {
-        "observation_id": 378614298,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/378614298",
+        "observation_id": 379693808,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2025-05-19",
+        "uri": "https://www.inaturalist.org/observations/379693808",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -226,19 +126,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.5628013,
-          28.6178021997
+          -82.8114083333,
+          27.882775
         ]
       },
       "properties": {
-        "observation_id": 378614288,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/378614288",
+        "observation_id": 379693381,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2025-12-08",
+        "uri": "https://www.inaturalist.org/observations/379693381",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -246,219 +146,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.562752,
-          28.6177859722
+          -82.8111116667,
+          27.882455
         ]
       },
       "properties": {
-        "observation_id": 378614287,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-07-05",
-        "uri": "https://www.inaturalist.org/observations/378614287",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.2220833333,
-          29.682975
-        ]
-      },
-      "properties": {
-        "observation_id": 377790712,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-21",
-        "uri": "https://www.inaturalist.org/observations/377790712",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1056444444,
-          26.37485
-        ]
-      },
-      "properties": {
-        "observation_id": 376879914,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-30",
-        "uri": "https://www.inaturalist.org/observations/376879914",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.67198,
-          25.3893333333
-        ]
-      },
-      "properties": {
-        "observation_id": 376525765,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-28",
-        "uri": "https://www.inaturalist.org/observations/376525765",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.4098046058,
-          27.2372514257
-        ]
-      },
-      "properties": {
-        "observation_id": 376345219,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-26",
-        "uri": "https://www.inaturalist.org/observations/376345219",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.3548357263,
-          26.842936906
-        ]
-      },
-      "properties": {
-        "observation_id": 376336143,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-27",
-        "uri": "https://www.inaturalist.org/observations/376336143",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.6340555556,
-          28.7212861111
-        ]
-      },
-      "properties": {
-        "observation_id": 376328152,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-28",
-        "uri": "https://www.inaturalist.org/observations/376328152",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.5736400592,
-          25.4008497487
-        ]
-      },
-      "properties": {
-        "observation_id": 376031860,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-06-22",
-        "uri": "https://www.inaturalist.org/observations/376031860",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.24993,
-          27.246445
-        ]
-      },
-      "properties": {
-        "observation_id": 375980899,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-06-27",
-        "uri": "https://www.inaturalist.org/observations/375980899",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1852453501,
-          26.9439184712
-        ]
-      },
-      "properties": {
-        "observation_id": 375367595,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-25",
-        "uri": "https://www.inaturalist.org/observations/375367595",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.9868067256,
-          30.3498813652
-        ]
-      },
-      "properties": {
-        "observation_id": 375240717,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
+        "observation_id": 379692688,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
         "observed_on": "2026-03-12",
-        "uri": "https://www.inaturalist.org/observations/375240717",
+        "uri": "https://www.inaturalist.org/observations/379692688",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -466,19 +166,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.3433916667,
-          29.9152966667
+          -82.811225,
+          27.8832416667
         ]
       },
       "properties": {
-        "observation_id": 375232310,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-24",
-        "uri": "https://www.inaturalist.org/observations/375232310",
+        "observation_id": 379538295,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2025-03-31",
+        "uri": "https://www.inaturalist.org/observations/379538295",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -486,19 +186,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.1978304935,
-          30.3599262982
+          -82.8109583333,
+          27.881595
         ]
       },
       "properties": {
-        "observation_id": 375004657,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-03-09",
-        "uri": "https://www.inaturalist.org/observations/375004657",
+        "observation_id": 379538072,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2024-11-24",
+        "uri": "https://www.inaturalist.org/observations/379538072",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -506,19 +206,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.376232,
-          28.062763
+          -82.8111033333,
+          27.882525
         ]
       },
       "properties": {
-        "observation_id": 374984812,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-24",
-        "uri": "https://www.inaturalist.org/observations/374984812",
+        "observation_id": 379510590,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2024-07-15",
+        "uri": "https://www.inaturalist.org/observations/379510590",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -526,19 +226,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.7568817139,
-          29.7122612
+          -82.7849729722,
+          27.892828
         ]
       },
       "properties": {
-        "observation_id": 374924069,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-24",
-        "uri": "https://www.inaturalist.org/observations/374924069",
+        "observation_id": 379490073,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/379490073",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -546,19 +246,639 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.1112384632,
-          30.0048548187
+          -82.8116516281,
+          27.8813737585
         ]
       },
       "properties": {
-        "observation_id": 374438086,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
+        "observation_id": 379485375,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/379485375",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8109389721,
+          27.8810662909
+        ]
+      },
+      "properties": {
+        "observation_id": 379476580,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/379476580",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7034335956,
+          27.7483601389
+        ]
+      },
+      "properties": {
+        "observation_id": 379304082,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2020-10-25",
+        "uri": "https://www.inaturalist.org/observations/379304082",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6366229019,
+          27.7635508636
+        ]
+      },
+      "properties": {
+        "observation_id": 379272233,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379272233",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6571277778,
+          28.1293277778
+        ]
+      },
+      "properties": {
+        "observation_id": 379271530,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379271530",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8114310652,
+          27.8321920891
+        ]
+      },
+      "properties": {
+        "observation_id": 379177579,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379177579",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8134286404,
+          27.833716635
+        ]
+      },
+      "properties": {
+        "observation_id": 379177140,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379177140",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8128844872,
+          27.8336911371
+        ]
+      },
+      "properties": {
+        "observation_id": 379176386,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-07",
+        "uri": "https://www.inaturalist.org/observations/379176386",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7611380081,
+          27.8353787771
+        ]
+      },
+      "properties": {
+        "observation_id": 379063217,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-06",
+        "uri": "https://www.inaturalist.org/observations/379063217",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.693855,
+          27.7397966667
+        ]
+      },
+      "properties": {
+        "observation_id": 378976255,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378976255",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6367116667,
+          27.7895616667
+        ]
+      },
+      "properties": {
+        "observation_id": 378931926,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378931926",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6364216667,
+          27.7910466667
+        ]
+      },
+      "properties": {
+        "observation_id": 378759990,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378759990",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.69448,
+          27.738425
+        ]
+      },
+      "properties": {
+        "observation_id": 378626171,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378626171",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6945033333,
+          27.739705
+        ]
+      },
+      "properties": {
+        "observation_id": 378626065,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378626065",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7905231553,
+          27.9163122759
+        ]
+      },
+      "properties": {
+        "observation_id": 378481148,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378481148",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.719833374,
+          28.017534256
+        ]
+      },
+      "properties": {
+        "observation_id": 378452100,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378452100",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6949833333,
+          28.0974221667
+        ]
+      },
+      "properties": {
+        "observation_id": 378401169,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-05",
+        "uri": "https://www.inaturalist.org/observations/378401169",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6949254042,
+          28.0974547508
+        ]
+      },
+      "properties": {
+        "observation_id": 378101412,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-04",
+        "uri": "https://www.inaturalist.org/observations/378101412",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7475666667,
+          28.0491611667
+        ]
+      },
+      "properties": {
+        "observation_id": 377796445,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377796445",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8053029722,
+          27.852958
+        ]
+      },
+      "properties": {
+        "observation_id": 377780776,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377780776",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6902466667,
+          27.7946533333
+        ]
+      },
+      "properties": {
+        "observation_id": 377734744,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-03",
+        "uri": "https://www.inaturalist.org/observations/377734744",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8049922218,
+          27.9050566527
+        ]
+      },
+      "properties": {
+        "observation_id": 377566380,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2022-05-06",
+        "uri": "https://www.inaturalist.org/observations/377566380",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6900466667,
+          27.85717
+        ]
+      },
+      "properties": {
+        "observation_id": 377533331,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-02",
+        "uri": "https://www.inaturalist.org/observations/377533331",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6900033333,
+          27.85708
+        ]
+      },
+      "properties": {
+        "observation_id": 377533293,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-02",
+        "uri": "https://www.inaturalist.org/observations/377533293",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6572831,
+          27.7325311
+        ]
+      },
+      "properties": {
+        "observation_id": 376871735,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-28",
+        "uri": "https://www.inaturalist.org/observations/376871735",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6466666667,
+          27.768125
+        ]
+      },
+      "properties": {
+        "observation_id": 376845954,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-30",
+        "uri": "https://www.inaturalist.org/observations/376845954",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8246783333,
+          27.87115
+        ]
+      },
+      "properties": {
+        "observation_id": 376671105,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-29",
+        "uri": "https://www.inaturalist.org/observations/376671105",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.753525,
+          28.0324695
+        ]
+      },
+      "properties": {
+        "observation_id": 376157366,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-28",
+        "uri": "https://www.inaturalist.org/observations/376157366",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7808477628,
+          28.0326424159
+        ]
+      },
+      "properties": {
+        "observation_id": 375824723,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-27",
+        "uri": "https://www.inaturalist.org/observations/375824723",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7922883333,
+          27.9587083333
+        ]
+      },
+      "properties": {
+        "observation_id": 375812639,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-26",
+        "uri": "https://www.inaturalist.org/observations/375812639",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7799943679,
+          28.0325335066
+        ]
+      },
+      "properties": {
+        "observation_id": 375811737,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-27",
+        "uri": "https://www.inaturalist.org/observations/375811737",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7840060712,
+          27.9147796132
+        ]
+      },
+      "properties": {
+        "observation_id": 375419830,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
         "observed_on": "2026-06-22",
-        "uri": "https://www.inaturalist.org/observations/374438086",
+        "uri": "https://www.inaturalist.org/observations/375419830",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -566,19 +886,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.1782033333,
-          28.8330566667
+          -82.7482397574,
+          27.9530254826
         ]
       },
       "properties": {
-        "observation_id": 374414722,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-20",
-        "uri": "https://www.inaturalist.org/observations/374414722",
+        "observation_id": 375367057,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-25",
+        "uri": "https://www.inaturalist.org/observations/375367057",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -586,19 +906,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.1499186189,
-          26.9861444354
+          -82.7932662964,
+          27.7938575745
         ]
       },
       "properties": {
-        "observation_id": 374305402,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-22",
-        "uri": "https://www.inaturalist.org/observations/374305402",
+        "observation_id": 375069991,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-24",
+        "uri": "https://www.inaturalist.org/observations/375069991",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -606,19 +926,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.1009152,
-          27.0034639
+          -82.74598,
+          27.7974633333
         ]
       },
       "properties": {
-        "observation_id": 373690225,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2023-07-01",
-        "uri": "https://www.inaturalist.org/observations/373690225",
+        "observation_id": 374784739,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-14",
+        "uri": "https://www.inaturalist.org/observations/374784739",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -626,19 +946,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.1099083333,
-          26.2815533333
+          -82.8304009885,
+          28.0640788962
         ]
       },
       "properties": {
-        "observation_id": 373087844,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-06",
-        "uri": "https://www.inaturalist.org/observations/373087844",
+        "observation_id": 374163160,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-21",
+        "uri": "https://www.inaturalist.org/observations/374163160",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -646,19 +966,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.3602533333,
-          27.210455
+          -82.8340571746,
+          28.071361121
         ]
       },
       "properties": {
-        "observation_id": 373073860,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-06-18",
-        "uri": "https://www.inaturalist.org/observations/373073860",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
+        "observation_id": 374153272,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-21",
+        "uri": "https://www.inaturalist.org/observations/374153272",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -666,19 +986,99 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.3973616667,
-          27.3998116667
+          -82.730195,
+          27.7932716667
         ]
       },
       "properties": {
-        "observation_id": 372739257,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
+        "observation_id": 374137922,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-21",
+        "uri": "https://www.inaturalist.org/observations/374137922",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6874083333,
+          27.734255
+        ]
+      },
+      "properties": {
+        "observation_id": 374126426,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-21",
+        "uri": "https://www.inaturalist.org/observations/374126426",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7562103271,
+          28.0514240265
+        ]
+      },
+      "properties": {
+        "observation_id": 374081183,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-21",
+        "uri": "https://www.inaturalist.org/observations/374081183",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.81987,
+          28.0316611667
+        ]
+      },
+      "properties": {
+        "observation_id": 374033240,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-16",
+        "uri": "https://www.inaturalist.org/observations/374033240",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8280416667,
+          27.9560616667
+        ]
+      },
+      "properties": {
+        "observation_id": 374032631,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
         "observed_on": "2026-06-17",
-        "uri": "https://www.inaturalist.org/observations/372739257",
+        "uri": "https://www.inaturalist.org/observations/374032631",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -686,19 +1086,119 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.6523133333,
-          27.728195
+          -82.6311283333,
+          27.7662366667
         ]
       },
       "properties": {
-        "observation_id": 372433605,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
+        "observation_id": 373447822,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2022-09-17",
+        "uri": "https://www.inaturalist.org/observations/373447822",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.707595,
+          27.7445133333
+        ]
+      },
+      "properties": {
+        "observation_id": 373446198,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-19",
+        "uri": "https://www.inaturalist.org/observations/373446198",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7079616667,
+          27.7464366667
+        ]
+      },
+      "properties": {
+        "observation_id": 373390717,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-19",
+        "uri": "https://www.inaturalist.org/observations/373390717",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7529133333,
+          27.9890666667
+        ]
+      },
+      "properties": {
+        "observation_id": 373255321,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-19",
+        "uri": "https://www.inaturalist.org/observations/373255321",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7528383333,
+          27.98923
+        ]
+      },
+      "properties": {
+        "observation_id": 372936002,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-18",
+        "uri": "https://www.inaturalist.org/observations/372936002",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7528533333,
+          27.989205
+        ]
+      },
+      "properties": {
+        "observation_id": 372603046,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
         "observed_on": "2026-06-15",
-        "uri": "https://www.inaturalist.org/observations/372433605",
+        "uri": "https://www.inaturalist.org/observations/372603046",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -706,19 +1206,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.30442,
-          25.62877
+          -82.6543116667,
+          27.7292366667
         ]
       },
       "properties": {
-        "observation_id": 371808004,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2025-04-09",
-        "uri": "https://www.inaturalist.org/observations/371808004",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
+        "observation_id": 372437027,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-15",
+        "uri": "https://www.inaturalist.org/observations/372437027",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -726,19 +1226,179 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.86539213,
-          30.38192181
+          -82.6657642327,
+          27.8963763858
         ]
       },
       "properties": {
-        "observation_id": 371253854,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
+        "observation_id": 372324576,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-16",
+        "uri": "https://www.inaturalist.org/observations/372324576",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.65075,
+          27.724695
+        ]
+      },
+      "properties": {
+        "observation_id": 372035227,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-15",
+        "uri": "https://www.inaturalist.org/observations/372035227",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6504283333,
+          27.72467
+        ]
+      },
+      "properties": {
+        "observation_id": 372035186,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-15",
+        "uri": "https://www.inaturalist.org/observations/372035186",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6893216667,
+          27.7105666667
+        ]
+      },
+      "properties": {
+        "observation_id": 371993762,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-15",
+        "uri": "https://www.inaturalist.org/observations/371993762",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.750184641,
+          27.95201223
+        ]
+      },
+      "properties": {
+        "observation_id": 371776662,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-14",
+        "uri": "https://www.inaturalist.org/observations/371776662",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8286021385,
+          27.8620828954
+        ]
+      },
+      "properties": {
+        "observation_id": 371738687,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-14",
+        "uri": "https://www.inaturalist.org/observations/371738687",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7482214038,
+          27.9530149874
+        ]
+      },
+      "properties": {
+        "observation_id": 371712485,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-14",
+        "uri": "https://www.inaturalist.org/observations/371712485",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7766633333,
+          27.8488366667
+        ]
+      },
+      "properties": {
+        "observation_id": 371690989,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-14",
+        "uri": "https://www.inaturalist.org/observations/371690989",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6374366667,
+          27.789745
+        ]
+      },
+      "properties": {
+        "observation_id": 371354288,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
         "observed_on": "2026-06-13",
-        "uri": "https://www.inaturalist.org/observations/371253854",
+        "uri": "https://www.inaturalist.org/observations/371354288",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -746,19 +1406,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.86517881,
-          30.38249195
+          -82.6627009163,
+          28.0843938838
         ]
       },
       "properties": {
-        "observation_id": 371235577,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
+        "observation_id": 371209589,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
         "observed_on": "2026-06-13",
-        "uri": "https://www.inaturalist.org/observations/371235577",
+        "uri": "https://www.inaturalist.org/observations/371209589",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -766,19 +1426,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.8650833333,
-          30.38204
+          -82.6308436983,
+          27.8205984931
         ]
       },
       "properties": {
-        "observation_id": 371235444,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-13",
-        "uri": "https://www.inaturalist.org/observations/371235444",
+        "observation_id": 370951367,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-12",
+        "uri": "https://www.inaturalist.org/observations/370951367",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -786,19 +1446,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.8652933333,
-          30.3821566667
+          -82.7330466667,
+          27.7802783333
         ]
       },
       "properties": {
-        "observation_id": 371234463,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-13",
-        "uri": "https://www.inaturalist.org/observations/371234463",
+        "observation_id": 370799487,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-06",
+        "uri": "https://www.inaturalist.org/observations/370799487",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -806,39 +1466,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.8654735572,
-          30.3823671432
+          -82.7828694444,
+          27.7989666667
         ]
       },
       "properties": {
-        "observation_id": 371226775,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-13",
-        "uri": "https://www.inaturalist.org/observations/371226775",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.5956033333,
-          28.1432361667
-        ]
-      },
-      "properties": {
-        "observation_id": 370673622,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
+        "observation_id": 370676541,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
         "observed_on": "2026-06-11",
-        "uri": "https://www.inaturalist.org/observations/370673622",
+        "uri": "https://www.inaturalist.org/observations/370676541",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -846,19 +1486,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.2518834323,
-          29.4083557966
+          -82.7828694444,
+          27.7989388889
         ]
       },
       "properties": {
-        "observation_id": 370520993,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-04-18",
-        "uri": "https://www.inaturalist.org/observations/370520993",
+        "observation_id": 370676436,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-11",
+        "uri": "https://www.inaturalist.org/observations/370676436",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -866,19 +1506,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.6803262376,
-          30.404345575
+          -82.6905833333,
+          28.1044833333
         ]
       },
       "properties": {
-        "observation_id": 370328025,
-        "taxon_id": 242257,
-        "scientific_name": "Pinus elliottii elliottii",
-        "common_name": "Typical Slash Pine",
-        "observed_on": "2026-06-10",
-        "uri": "https://www.inaturalist.org/observations/370328025",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
+        "observation_id": 370675943,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-02",
+        "uri": "https://www.inaturalist.org/observations/370675943",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -886,19 +1526,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.303895,
-          28.4138383333
+          -82.64875,
+          27.72602
         ]
       },
       "properties": {
-        "observation_id": 370225159,
-        "taxon_id": 242257,
-        "scientific_name": "Pinus elliottii elliottii",
-        "common_name": "Typical Slash Pine",
-        "observed_on": "2026-06-05",
-        "uri": "https://www.inaturalist.org/observations/370225159",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
+        "observation_id": 370673790,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-11",
+        "uri": "https://www.inaturalist.org/observations/370673790",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -906,19 +1546,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5398833333,
-          25.5952666667
+          -82.73399,
+          27.6410499722
         ]
       },
       "properties": {
-        "observation_id": 370124834,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-06-05",
-        "uri": "https://www.inaturalist.org/observations/370124834",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
+        "observation_id": 370480072,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-04",
+        "uri": "https://www.inaturalist.org/observations/370480072",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -926,19 +1566,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.318445,
-          27.2662616667
+          -82.7141583333,
+          27.9757883333
         ]
       },
       "properties": {
-        "observation_id": 370051979,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
+        "observation_id": 370371320,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-03",
+        "uri": "https://www.inaturalist.org/observations/370371320",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7133916667,
+          27.9746083056
+        ]
+      },
+      "properties": {
+        "observation_id": 370370345,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-03",
+        "uri": "https://www.inaturalist.org/observations/370370345",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6337133333,
+          27.7618416667
+        ]
+      },
+      "properties": {
+        "observation_id": 370158967,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
         "observed_on": "2026-06-09",
-        "uri": "https://www.inaturalist.org/observations/370051979",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
+        "uri": "https://www.inaturalist.org/observations/370158967",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -946,19 +1626,99 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.2974192947,
-          31.2699555551
+          -82.8465609625,
+          27.8960009982
         ]
       },
       "properties": {
-        "observation_id": 369872783,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
+        "observation_id": 370124233,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-09",
+        "uri": "https://www.inaturalist.org/observations/370124233",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6860716667,
+          27.71068
+        ]
+      },
+      "properties": {
+        "observation_id": 370075656,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-09",
+        "uri": "https://www.inaturalist.org/observations/370075656",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.842291221,
+          27.8498194177
+        ]
+      },
+      "properties": {
+        "observation_id": 370075225,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2018-07-26",
+        "uri": "https://www.inaturalist.org/observations/370075225",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8471778706,
+          27.8927026493
+        ]
+      },
+      "properties": {
+        "observation_id": 370055923,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-09",
+        "uri": "https://www.inaturalist.org/observations/370055923",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6511783333,
+          27.7291
+        ]
+      },
+      "properties": {
+        "observation_id": 369883304,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
         "observed_on": "2026-06-08",
-        "uri": "https://www.inaturalist.org/observations/369872783",
+        "uri": "https://www.inaturalist.org/observations/369883304",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -966,19 +1726,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6357722222,
-          26.1168694444
+          -82.6508466667,
+          27.7294116667
         ]
       },
       "properties": {
-        "observation_id": 369106590,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-05-21",
-        "uri": "https://www.inaturalist.org/observations/369106590",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
+        "observation_id": 369881839,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-08",
+        "uri": "https://www.inaturalist.org/observations/369881839",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -986,19 +1746,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          113.9305390506,
-          22.2547685415
+          -82.7984,
+          27.8577639722
         ]
       },
       "properties": {
-        "observation_id": 368600950,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
+        "observation_id": 369761958,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-08",
+        "uri": "https://www.inaturalist.org/observations/369761958",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7171861111,
+          27.7942472222
+        ]
+      },
+      "properties": {
+        "observation_id": 368958112,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-06",
+        "uri": "https://www.inaturalist.org/observations/368958112",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.730795,
+          27.9664599722
+        ]
+      },
+      "properties": {
+        "observation_id": 368883057,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
         "observed_on": "2026-06-01",
-        "uri": "https://www.inaturalist.org/observations/368600950",
+        "uri": "https://www.inaturalist.org/observations/368883057",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1006,19 +1806,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5710216733,
-          25.4095007978
+          -82.6449966667,
+          27.76237
         ]
       },
       "properties": {
-        "observation_id": 367626107,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-04-25",
-        "uri": "https://www.inaturalist.org/observations/367626107",
+        "observation_id": 368764658,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-05",
+        "uri": "https://www.inaturalist.org/observations/368764658",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1026,19 +1826,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.9811383333,
-          21.5355500019
+          -82.7865551933,
+          27.9259989477
         ]
       },
       "properties": {
-        "observation_id": 367577742,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-31",
-        "uri": "https://www.inaturalist.org/observations/367577742",
+        "observation_id": 368762990,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-05",
+        "uri": "https://www.inaturalist.org/observations/368762990",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1046,19 +1846,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.8886359697,
-          29.652397662
+          -82.8090057373,
+          27.8850803375
         ]
       },
       "properties": {
-        "observation_id": 367526261,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-06-01",
-        "uri": "https://www.inaturalist.org/observations/367526261",
+        "observation_id": 368736017,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-04",
+        "uri": "https://www.inaturalist.org/observations/368736017",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1066,19 +1866,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6781,
-          30.34522
+          -82.8306274414,
+          28.0770797729
         ]
       },
       "properties": {
-        "observation_id": 367269244,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-31",
-        "uri": "https://www.inaturalist.org/observations/367269244",
+        "observation_id": 368690517,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-05",
+        "uri": "https://www.inaturalist.org/observations/368690517",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1086,19 +1886,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.6794133333,
-          25.423795
+          -82.7710943821,
+          27.9108089122
         ]
       },
       "properties": {
-        "observation_id": 367190553,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-27",
-        "uri": "https://www.inaturalist.org/observations/367190553",
+        "observation_id": 368485635,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-04",
+        "uri": "https://www.inaturalist.org/observations/368485635",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1106,19 +1906,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5687927,
-          27.99008389
+          -82.7870025538,
+          28.0336769559
         ]
       },
       "properties": {
-        "observation_id": 367015667,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-31",
-        "uri": "https://www.inaturalist.org/observations/367015667",
+        "observation_id": 368470359,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-04",
+        "uri": "https://www.inaturalist.org/observations/368470359",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1126,79 +1926,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.763817,
-          29.705582
+          -82.6582116667,
+          28.1314333333
         ]
       },
       "properties": {
-        "observation_id": 366519067,
-        "taxon_id": 242257,
-        "scientific_name": "Pinus elliottii elliottii",
-        "common_name": "Typical Slash Pine",
-        "observed_on": "2026-03-20",
-        "uri": "https://www.inaturalist.org/observations/366519067",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.762871,
-          29.704889
-        ]
-      },
-      "properties": {
-        "observation_id": 366518964,
-        "taxon_id": 242257,
-        "scientific_name": "Pinus elliottii elliottii",
-        "common_name": "Typical Slash Pine",
-        "observed_on": "2026-03-20",
-        "uri": "https://www.inaturalist.org/observations/366518964",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.3083199722,
-          26.8543759722
-        ]
-      },
-      "properties": {
-        "observation_id": 366508728,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-05-29",
-        "uri": "https://www.inaturalist.org/observations/366508728",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.68699646,
-          27.9249687195
-        ]
-      },
-      "properties": {
-        "observation_id": 366488400,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-29",
-        "uri": "https://www.inaturalist.org/observations/366488400",
+        "observation_id": 368085925,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-06-03",
+        "uri": "https://www.inaturalist.org/observations/368085925",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1206,259 +1946,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.1934497216,
-          28.6019760261
+          -82.7158361111,
+          27.8473638889
         ]
       },
       "properties": {
-        "observation_id": 366440986,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-28",
-        "uri": "https://www.inaturalist.org/observations/366440986",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.1904278911,
-          28.6011356273
-        ]
-      },
-      "properties": {
-        "observation_id": 366392322,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-14",
-        "uri": "https://www.inaturalist.org/observations/366392322",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.8326353878,
-          25.3229115609
-        ]
-      },
-      "properties": {
-        "observation_id": 366208004,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-21",
-        "uri": "https://www.inaturalist.org/observations/366208004",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.1905075178,
-          28.6010573913
-        ]
-      },
-      "properties": {
-        "observation_id": 366152824,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-28",
-        "uri": "https://www.inaturalist.org/observations/366152824",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.581245,
-          25.7602533333
-        ]
-      },
-      "properties": {
-        "observation_id": 366100486,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2025-01-01",
-        "uri": "https://www.inaturalist.org/observations/366100486",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.1929140613,
-          28.601893452
-        ]
-      },
-      "properties": {
-        "observation_id": 366082962,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-28",
-        "uri": "https://www.inaturalist.org/observations/366082962",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.2009327766,
-          28.6024916265
-        ]
-      },
-      "properties": {
-        "observation_id": 366045638,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-27",
-        "uri": "https://www.inaturalist.org/observations/366045638",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.1927463412,
-          28.6037817242
-        ]
-      },
-      "properties": {
-        "observation_id": 366045018,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-28",
-        "uri": "https://www.inaturalist.org/observations/366045018",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.1916030138,
-          28.6032133895
-        ]
-      },
-      "properties": {
-        "observation_id": 366026442,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-28",
-        "uri": "https://www.inaturalist.org/observations/366026442",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1053714469,
-          27.0000887934
-        ]
-      },
-      "properties": {
-        "observation_id": 365902311,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-04-23",
-        "uri": "https://www.inaturalist.org/observations/365902311",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          113.934805,
-          22.2938283333
-        ]
-      },
-      "properties": {
-        "observation_id": 365743141,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-27",
-        "uri": "https://www.inaturalist.org/observations/365743141",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.19144777,
-          28.60352186
-        ]
-      },
-      "properties": {
-        "observation_id": 365720185,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-27",
-        "uri": "https://www.inaturalist.org/observations/365720185",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.9117267997,
-          26.8592267997
-        ]
-      },
-      "properties": {
-        "observation_id": 365488808,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
+        "observation_id": 367970869,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
         "observed_on": "2026-05-26",
-        "uri": "https://www.inaturalist.org/observations/365488808",
+        "uri": "https://www.inaturalist.org/observations/367970869",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1466,19 +1966,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.29138,
-          31.9373333333
+          -82.7882866667,
+          27.916645
         ]
       },
       "properties": {
-        "observation_id": 364916184,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-24",
-        "uri": "https://www.inaturalist.org/observations/364916184",
+        "observation_id": 366689122,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-05-30",
+        "uri": "https://www.inaturalist.org/observations/366689122",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1486,59 +1986,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.4427483333,
-          27.7071616667
+          -82.760825,
+          27.7628716667
         ]
       },
       "properties": {
-        "observation_id": 364772916,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-24",
-        "uri": "https://www.inaturalist.org/observations/364772916",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1897133333,
-          26.225045
-        ]
-      },
-      "properties": {
-        "observation_id": 364739100,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-24",
-        "uri": "https://www.inaturalist.org/observations/364739100",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.0691825968,
-          33.9317814857
-        ]
-      },
-      "properties": {
-        "observation_id": 364393233,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
+        "observation_id": 366657768,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
         "observed_on": "2026-05-23",
-        "uri": "https://www.inaturalist.org/observations/364393233",
+        "uri": "https://www.inaturalist.org/observations/366657768",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1546,19 +2006,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.4084017874,
-          25.6031187717
+          -82.805158,
+          27.8529659722
         ]
       },
       "properties": {
-        "observation_id": 364096386,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-03-11",
-        "uri": "https://www.inaturalist.org/observations/364096386",
+        "observation_id": 366629177,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-05-30",
+        "uri": "https://www.inaturalist.org/observations/366629177",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1566,39 +2026,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.19181913,
-          28.60264886
+          -82.6364133333,
+          27.7440416667
         ]
       },
       "properties": {
-        "observation_id": 364072728,
-        "taxon_id": 242257,
-        "scientific_name": "Pinus elliottii elliottii",
-        "common_name": "Typical Slash Pine",
-        "observed_on": "2026-05-22",
-        "uri": "https://www.inaturalist.org/observations/364072728",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6062787459,
-          27.8506299939
-        ]
-      },
-      "properties": {
-        "observation_id": 363999090,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-22",
-        "uri": "https://www.inaturalist.org/observations/363999090",
+        "observation_id": 366617218,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-05-28",
+        "uri": "https://www.inaturalist.org/observations/366617218",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1606,19 +2046,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.3799805556,
-          24.7053
+          -82.6639315,
+          27.7110440997
         ]
       },
       "properties": {
-        "observation_id": 363483160,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-20",
-        "uri": "https://www.inaturalist.org/observations/363483160",
+        "observation_id": 366506198,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-05-27",
+        "uri": "https://www.inaturalist.org/observations/366506198",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1626,19 +2066,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.2833548175,
-          29.9663260325
+          -82.6926033333,
+          27.7432416667
         ]
       },
       "properties": {
-        "observation_id": 363368390,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-20",
-        "uri": "https://www.inaturalist.org/observations/363368390",
+        "observation_id": 366275020,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-05-28",
+        "uri": "https://www.inaturalist.org/observations/366275020",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1646,19 +2086,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.0615411086,
-          29.0355637323
+          -82.6363966667,
+          27.7439783333
         ]
       },
       "properties": {
-        "observation_id": 363209269,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-01",
-        "uri": "https://www.inaturalist.org/observations/363209269",
+        "observation_id": 366068003,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-05-28",
+        "uri": "https://www.inaturalist.org/observations/366068003",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1666,39 +2106,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.4076,
-          25.5994333333
+          -82.6384451,
+          27.7671271
         ]
       },
       "properties": {
-        "observation_id": 363163876,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-05-19",
-        "uri": "https://www.inaturalist.org/observations/363163876",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.3462966667,
-          26.1610666667
-        ]
-      },
-      "properties": {
-        "observation_id": 363059394,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-13",
-        "uri": "https://www.inaturalist.org/observations/363059394",
+        "observation_id": 365850179,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2024-12-19",
+        "uri": "https://www.inaturalist.org/observations/365850179",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1706,59 +2126,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.1916883333,
-          25.97013
+          -82.7693012162,
+          28.0442291791
         ]
       },
       "properties": {
-        "observation_id": 362916145,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-05-15",
-        "uri": "https://www.inaturalist.org/observations/362916145",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.652671814,
-          25.4056797028
-        ]
-      },
-      "properties": {
-        "observation_id": 362847857,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-05-18",
-        "uri": "https://www.inaturalist.org/observations/362847857",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1738966667,
-          26.6385333333
-        ]
-      },
-      "properties": {
-        "observation_id": 362770603,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-18",
-        "uri": "https://www.inaturalist.org/observations/362770603",
+        "observation_id": 365804838,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-05-26",
+        "uri": "https://www.inaturalist.org/observations/365804838",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1766,19 +2146,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.348035031,
-          28.0854962568
+          -82.7848560193,
+          28.1515923718
         ]
       },
       "properties": {
-        "observation_id": 362730886,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-03-17",
-        "uri": "https://www.inaturalist.org/observations/362730886",
+        "observation_id": 365803693,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-05-27",
+        "uri": "https://www.inaturalist.org/observations/365803693",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1786,19 +2166,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.5233850515,
-          27.2584426776
+          -82.6369166667,
+          27.7906083333
         ]
       },
       "properties": {
-        "observation_id": 362730848,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-03-24",
-        "uri": "https://www.inaturalist.org/observations/362730848",
+        "observation_id": 365613599,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2022-02-25",
+        "uri": "https://www.inaturalist.org/observations/365613599",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1806,19 +2186,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7156849802,
-          26.0785559099
+          -82.6658333333,
+          27.7098583333
         ]
       },
       "properties": {
-        "observation_id": 362549032,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-17",
-        "uri": "https://www.inaturalist.org/observations/362549032",
+        "observation_id": 365252831,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-05-24",
+        "uri": "https://www.inaturalist.org/observations/365252831",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1826,19 +2206,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7137334217,
-          26.0739250342
+          -82.7369444444,
+          27.7007083333
         ]
       },
       "properties": {
-        "observation_id": 362543810,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-17",
-        "uri": "https://www.inaturalist.org/observations/362543810",
+        "observation_id": 365086008,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-05-25",
+        "uri": "https://www.inaturalist.org/observations/365086008",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1846,19 +2226,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.9115398001,
-          30.52435734
+          -82.8202883333,
+          27.8441616667
         ]
       },
       "properties": {
-        "observation_id": 362542408,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-16",
-        "uri": "https://www.inaturalist.org/observations/362542408",
+        "observation_id": 365060137,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-05-25",
+        "uri": "https://www.inaturalist.org/observations/365060137",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1866,19 +2246,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.1482138889,
-          26.7774611111
+          -82.7051635516,
+          27.9930009716
         ]
       },
       "properties": {
-        "observation_id": 362390181,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-17",
-        "uri": "https://www.inaturalist.org/observations/362390181",
+        "observation_id": 365028945,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-04-06",
+        "uri": "https://www.inaturalist.org/observations/365028945",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     },
     {
@@ -1886,519 +2266,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.6297388432,
-          25.3891496406
+          -82.7300866667,
+          27.6756783333
         ]
       },
       "properties": {
-        "observation_id": 362145724,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-05-16",
-        "uri": "https://www.inaturalist.org/observations/362145724",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1910633333,
-          25.9708033333
-        ]
-      },
-      "properties": {
-        "observation_id": 362122644,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-15",
-        "uri": "https://www.inaturalist.org/observations/362122644",
+        "observation_id": 364878786,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-05-24",
+        "uri": "https://www.inaturalist.org/observations/364878786",
         "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.169229,
-          28.8072
-        ]
-      },
-      "properties": {
-        "observation_id": 362082324,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-16",
-        "uri": "https://www.inaturalist.org/observations/362082324",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4920054328,
-          29.7823799206
-        ]
-      },
-      "properties": {
-        "observation_id": 361965199,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-16",
-        "uri": "https://www.inaturalist.org/observations/361965199",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.0578420613,
-          26.5637578642
-        ]
-      },
-      "properties": {
-        "observation_id": 361655956,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-13",
-        "uri": "https://www.inaturalist.org/observations/361655956",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.7313466667,
-          26.053825
-        ]
-      },
-      "properties": {
-        "observation_id": 361438086,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-05-14",
-        "uri": "https://www.inaturalist.org/observations/361438086",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.5091804441,
-          27.3617549303
-        ]
-      },
-      "properties": {
-        "observation_id": 361222343,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-13",
-        "uri": "https://www.inaturalist.org/observations/361222343",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.60385,
-          27.84925
-        ]
-      },
-      "properties": {
-        "observation_id": 361195410,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2021-12-23",
-        "uri": "https://www.inaturalist.org/observations/361195410",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.2756195068,
-          29.8670368195
-        ]
-      },
-      "properties": {
-        "observation_id": 360906009,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-07",
-        "uri": "https://www.inaturalist.org/observations/360906009",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.1732333333,
-          28.02715
-        ]
-      },
-      "properties": {
-        "observation_id": 360852129,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-12",
-        "uri": "https://www.inaturalist.org/observations/360852129",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.9868383333,
-          28.4997966667
-        ]
-      },
-      "properties": {
-        "observation_id": 360745304,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-11",
-        "uri": "https://www.inaturalist.org/observations/360745304",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.8304329722,
-          28.078264
-        ]
-      },
-      "properties": {
-        "observation_id": 360729640,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-05-09",
-        "uri": "https://www.inaturalist.org/observations/360729640",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.5058549722,
-          25.4424869722
-        ]
-      },
-      "properties": {
-        "observation_id": 360576445,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-05-10",
-        "uri": "https://www.inaturalist.org/observations/360576445",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.372652,
-          24.7003869722
-        ]
-      },
-      "properties": {
-        "observation_id": 360504804,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-05-09",
-        "uri": "https://www.inaturalist.org/observations/360504804",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.3733419722,
-          24.700188
-        ]
-      },
-      "properties": {
-        "observation_id": 360489960,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-05-09",
-        "uri": "https://www.inaturalist.org/observations/360489960",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.3734319722,
-          24.700327
-        ]
-      },
-      "properties": {
-        "observation_id": 360489785,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-05-09",
-        "uri": "https://www.inaturalist.org/observations/360489785",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1233513946,
-          26.7769536099
-        ]
-      },
-      "properties": {
-        "observation_id": 360483081,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-04-26",
-        "uri": "https://www.inaturalist.org/observations/360483081",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.3678519722,
-          24.692592
-        ]
-      },
-      "properties": {
-        "observation_id": 360462180,
-        "taxon_id": 242256,
-        "scientific_name": "Pinus elliottii densa",
-        "common_name": "South Florida slash pine",
-        "observed_on": "2026-05-09",
-        "uri": "https://www.inaturalist.org/observations/360462180",
-        "taxon_rank": "variety",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.0658638333,
-          26.8864133333
-        ]
-      },
-      "properties": {
-        "observation_id": 360370477,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-04-24",
-        "uri": "https://www.inaturalist.org/observations/360370477",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.2484356799,
-          27.1545622358
-        ]
-      },
-      "properties": {
-        "observation_id": 360217943,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-03-26",
-        "uri": "https://www.inaturalist.org/observations/360217943",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.2140583333,
-          26.8538361111
-        ]
-      },
-      "properties": {
-        "observation_id": 360203363,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-04-25",
-        "uri": "https://www.inaturalist.org/observations/360203363",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.3398555458,
-          25.6347737589
-        ]
-      },
-      "properties": {
-        "observation_id": 360187852,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-04-27",
-        "uri": "https://www.inaturalist.org/observations/360187852",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.0731195,
-          26.8569033333
-        ]
-      },
-      "properties": {
-        "observation_id": 359712358,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-04-25",
-        "uri": "https://www.inaturalist.org/observations/359712358",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1231221667,
-          26.77552
-        ]
-      },
-      "properties": {
-        "observation_id": 359712096,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-04-25",
-        "uri": "https://www.inaturalist.org/observations/359712096",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.0758888333,
-          26.8569166667
-        ]
-      },
-      "properties": {
-        "observation_id": 359698625,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-04-25",
-        "uri": "https://www.inaturalist.org/observations/359698625",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.1251528333,
-          26.7776166667
-        ]
-      },
-      "properties": {
-        "observation_id": 359483691,
-        "taxon_id": 69985,
-        "scientific_name": "Pinus elliottii",
-        "common_name": "slash pine",
-        "observed_on": "2026-04-26",
-        "uri": "https://www.inaturalist.org/observations/359483691",
-        "taxon_rank": "species",
-        "iconic_taxon": "Plantae"
+        "iconic_taxon": "Reptilia"
       }
     }
   ]
