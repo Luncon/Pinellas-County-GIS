@@ -4,22 +4,46 @@ import json
 from shapely.geometry import shape
 import argparse
 
-def fetch_all_observations(species_name, max_pages=10, place_id=None):
+#Fetch all observations for all species
+def fetch_multiple_species(species_names, max_pages=10, place_id=None, date_before=None, date_after=None):
+    all_observations = []
+
+    for species_name in species_names:
+        observations = fetch_all_observations(
+                species_name, 
+                max_pages=10, 
+                place_id=place_id, 
+                date_before=date_before, 
+                date_after=date_after
+                )
+
+        all_observations.extend(observations)
+
+    return all_observations
+#Fetch all observations for one species
+def fetch_all_observations(species_name, max_pages=10, place_id=None, date_before=None, date_after=None):
     all_observations = []
 
     for page in range(1, max_pages + 1):
-        observations = fetch_observations(species_name, page=page, place_id=place_id) 
+        observations = fetch_observations(
+                species_name, 
+                page=page,
+                place_id=place_id,
+                date_before=date_before,
+                date_after=date_after
+                ) 
 
         if not observations: #Stop loop if fetch_observations() returns empty page
             break
 
         all_observations.extend(observations)
 
-        print(f"Fetched page {page}: {len(observations)} observations")
+        print(f"{species_name}: fetched page {page}: {len(observations)} observations")
 
     return all_observations
 
-def fetch_observations(species_name, page=1, place_id=None):
+#Fetch one observation for one species
+def fetch_observations(species_name, page=1, place_id=None, date_before=None, date_after=None):
     url = 'https://api.inaturalist.org/v1/observations'
 
     params = {
@@ -31,13 +55,19 @@ def fetch_observations(species_name, page=1, place_id=None):
 
     if place_id is not None:
         params['place_id'] = place_id
+        
+    if date_before is not None:
+        params['d2'] = date_before
+
+    if date_after is not None:
+        params['d1'] = date_after
 
     response = requests.get(url, params=params)
     data = response.json()
     
     return data["results"]
 
-#Convert one INat observaation into GeoJSON feature
+#Convert one INat observation into GeoJSON feature
 def create_feature(observation):
     taxon = observation["taxon"]
 
@@ -60,7 +90,7 @@ def create_feature(observation):
     
     return feature
 
-
+#Convert all INat observations into GeoJSON features
 def create_features(observations):
     features = []
 
@@ -89,7 +119,7 @@ def load_boundary(boundary_file):
         boundary = json.load(file)
         
         return boundary
-
+#Filter all observations by boundary file
 def filter_observations_by_boundary(observations, boundary_geometry):
     filtered_observations = []
 
@@ -110,8 +140,9 @@ if __name__ == "__main__":
 
     parser.add_argument(
             "--species",
+            nargs="+",
             required=True,
-            help="Scientific name of the species"
+            help="Scientific name of one or more species"
             )
 
     parser.add_argument(
@@ -126,17 +157,27 @@ if __name__ == "__main__":
             default=None,
             help="INaturalist place ID"
             )
+
+    parser.add_argument(
+            "--date-before",
+            default=None,
+            help="Latest observation date in YYYY-MM-DD format"
+            )
+
+    parser.add_argument(
+            "--date-after",
+            default=None,
+            help="Earliest observation date in YYYY-MM-DD format"
+            )
         
     args = parser.parse_args()
 
-    species_name = args.species
+    species_names = args.species
     place_id = args.place_id
     boundary_file = args.boundary
+    date_before = args.date_before
+    date_after = args.date_after
 
-
-    if len(sys.argv) < 4:
-        print("Usage: python update_observation.py \"Species Name\" \"place_id\" \"boundary_file.geojson\"" )
-        sys.exit(1)
 
     max_pages = 12 
     
@@ -147,7 +188,7 @@ if __name__ == "__main__":
             )
 
    
-    observations = fetch_all_observations(species_name, max_pages, place_id)
+    observations = fetch_multiple_species(species_names, max_pages, place_id, date_before, date_after)
 
     filtered_observations = filter_observations_by_boundary(
             observations,
