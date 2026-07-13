@@ -102,8 +102,25 @@ def create_features(observations):
     
     return features
 
-def save_geojson(features):
-    output_path = "../observations/observations.geojson" 
+def save_geojson(features, append=False, output_file=None):
+
+    if output_file is not None:
+        output_path = f"../observations/{output_file}"
+    else:
+        output_path = "../observations/observations.geojson" 
+    
+    if append:
+        try:
+            with open(output_path, "r", encoding="utf-8") as file:
+                existing_geojson = json.load(file)
+
+            existing_features = existing_geojson["features"]
+            existing_features.extend(features)
+            features = existing_features
+
+        except FileNotFoundError:
+            print("No existing output file found. Creating a new one.")
+
 
     geojson = {
         "type": "FeatureCollection",
@@ -194,6 +211,23 @@ if __name__ == "__main__":
             help="Earliest observation date in YYYY-MM-DD format"
             )
         
+    parser.add_argument(
+            "--overwrite",
+            action="store_true",
+            help="Allow overwriting an existing output file"
+            )
+
+    parser.add_argument(
+            "--output",
+            default="observations.geojson",
+            help="Output GeoJSON filename"
+            )
+    parser.add_argument(
+            "--append",
+            action="store_true",
+            help="Append observations to an existing output file instead of overwriting it"
+            )
+            
     args = parser.parse_args()
 
     species_names = args.species
@@ -201,29 +235,30 @@ if __name__ == "__main__":
     boundary_file = args.boundary
     date_before = args.date_before
     date_after = args.date_after
-
-
+    append_mode = args.append
+    output_file = args.output
     max_pages = 12 
-    
-    boundary = load_boundary(boundary_file)
-
-    boundary_geometry = shape(
-            boundary['features'][0]["geometry"]
-            )
-
    
     observations = fetch_multiple_species(species_names, max_pages, place_id, date_before, date_after)
 
-    filtered_observations = filter_observations_by_boundary(
+ 
+    if boundary_file is not None:
+        boundary = load_boundary(boundary_file)
+        boundary_geometry = shape(
+                boundary['features'][0]["geometry"]
+                )
+
+   
+        observations = filter_observations_by_boundary(
             observations,
             boundary_geometry
         )
 
-    features = create_features(filtered_observations)
+    features = create_features(observations)
 
-    print(f"Inside boundary: {len(filtered_observations)}")
+    print(f"Inside boundary: {len(observations)}")
 
-    save_geojson(features)
+    save_geojson(features, append=append_mode, output_file=output_file)
 
 
 
