@@ -49,7 +49,7 @@ def fetch_all_observations(species_name, max_pages=10, place_id=None, date_befor
 
     return all_observations
 
-#Fetch one observation for one species
+#Fetch one observation page for one species
 def fetch_observations(species_name, page=1, place_id=None, date_before=None, date_after=None):
     url = 'https://api.inaturalist.org/v1/observations'
 
@@ -69,12 +69,37 @@ def fetch_observations(species_name, page=1, place_id=None, date_before=None, da
     if date_after is not None:
         params['d1'] = date_after
 
-    response = requests.get(url, params=params, timeout=30)
+    try:
+        response = requests.get(
+                url, 
+                params=params, 
+                timeout=30
+                )
 
-    response.raise_for_status()
+        response.raise_for_status()
+
+    except requests.exceptions.Timeout as error:
+        raise RuntimeError(
+                f"INaturalist request timed out on page {page}."
+                ) from error
+    except requests.exceptions.ConnectionError as error:
+        raise RuntimeError(
+                "Could not connect to INaturalist. Check your internet connection."
+                ) from error
+
+    except requests.exceptions.HTTPError as error:
+        raise RuntimeError(
+                f"INaturalist returned HTTP {response.status_code} on page ({page})."
+                ) from error
+
+    except requests.exceptions.RequestException as error:
+        raise RuntimeError(
+                f"INaturalist request failed on page ({page}): {error}"
+                ) from error
+
 
     data = response.json()
-    
+        
     return data["results"]
 
 #Convert one INat observation into GeoJSON feature
