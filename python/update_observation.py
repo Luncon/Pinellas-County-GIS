@@ -1,3 +1,4 @@
+from datetime import datetime
 import requests
 import sys
 import json
@@ -20,6 +21,7 @@ def fetch_multiple_species(species_names, max_pages=10, place_id=None, date_befo
         all_observations.extend(observations)
 
     return all_observations
+
 #Fetch all observations for one species
 def fetch_all_observations(species_name, max_pages=10, place_id=None, date_before=None, date_after=None):
     all_observations = []
@@ -62,7 +64,7 @@ def fetch_observations(species_name, page=1, place_id=None, date_before=None, da
     if date_after is not None:
         params['d1'] = date_after
 
-    response = requests.get(url, params=params)
+    response = requests.get(url, params=params, timeout=30)
     data = response.json()
     
     return data["results"]
@@ -114,11 +116,12 @@ def save_geojson(features):
     print(f"Saved GeoJSON to {output_path}")
 
 def load_boundary(boundary_file):
-
+    
     with open(f"../vectors/{boundary_file}", "r", encoding="utf-8") as file:
         boundary = json.load(file)
         
         return boundary
+
 #Filter all observations by boundary file
 def filter_observations_by_boundary(observations, boundary_geometry):
     filtered_observations = []
@@ -130,6 +133,25 @@ def filter_observations_by_boundary(observations, boundary_geometry):
             filtered_observations.append(observation)
 
     return filtered_observations
+
+def positive_int(value):
+    number = int(value)
+
+    if number < 1:
+        raise argparse.ArgumentTypeError("Value must be at least 1.")
+
+    return number
+
+
+def valid_date(value):
+    try:
+        datetime.strptime(value, "%Y-%m-%d")
+    except ValueError as error:
+        raise argparse.ArgumentTypeError(
+            "Date must use YYYY-MM-DD format."
+        ) from error
+
+    return value
 
 
 if __name__ == "__main__":
@@ -153,19 +175,21 @@ if __name__ == "__main__":
 
     parser.add_argument(
             "--place-id",
-            type=int,
+            type=positive_int,
             default=None,
             help="INaturalist place ID"
             )
 
     parser.add_argument(
             "--date-before",
+            type=valid_date,
             default=None,
             help="Latest observation date in YYYY-MM-DD format"
             )
 
     parser.add_argument(
             "--date-after",
+            type=valid_date,
             default=None,
             help="Earliest observation date in YYYY-MM-DD format"
             )

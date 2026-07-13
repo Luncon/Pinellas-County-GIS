@@ -6,6 +6,126 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.7009149722,
+          27.9922719722
+        ]
+      },
+      "properties": {
+        "observation_id": 380939095,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-09",
+        "uri": "https://www.inaturalist.org/observations/380939095",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7160051,
+          27.9721506
+        ]
+      },
+      "properties": {
+        "observation_id": 380896841,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-08",
+        "uri": "https://www.inaturalist.org/observations/380896841",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7473353222,
+          28.1556604936
+        ]
+      },
+      "properties": {
+        "observation_id": 380845493,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-12",
+        "uri": "https://www.inaturalist.org/observations/380845493",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7527133521,
+          27.7888842034
+        ]
+      },
+      "properties": {
+        "observation_id": 380808371,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-12",
+        "uri": "https://www.inaturalist.org/observations/380808371",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7527166667,
+          27.7881666667
+        ]
+      },
+      "properties": {
+        "observation_id": 380808307,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-12",
+        "uri": "https://www.inaturalist.org/observations/380808307",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8104166667,
+          27.8819466667
+        ]
+      },
+      "properties": {
+        "observation_id": 380800652,
+        "taxon_id": 116461,
+        "scientific_name": "Anolis sagrei",
+        "common_name": "Brown Anole",
+        "observed_on": "2026-07-12",
+        "uri": "https://www.inaturalist.org/observations/380800652",
+        "taxon_rank": "species",
+        "iconic_taxon": "Reptilia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.8113783333,
           27.882
         ]
