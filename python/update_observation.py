@@ -1,9 +1,14 @@
+from pathlib import Path
 from datetime import datetime
 import requests
 import sys
 import json
 from shapely.geometry import shape
 import argparse
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+VECTOR_DIR = PROJECT_ROOT / "vectors"
+OBSERVATION_DIR = PROJECT_ROOT / "observations"
 
 #Fetch all observations for all species
 def fetch_multiple_species(species_names, max_pages=10, place_id=None, date_before=None, date_after=None):
@@ -65,6 +70,9 @@ def fetch_observations(species_name, page=1, place_id=None, date_before=None, da
         params['d1'] = date_after
 
     response = requests.get(url, params=params, timeout=30)
+
+    response.raise_for_status()
+
     data = response.json()
     
     return data["results"]
@@ -102,10 +110,10 @@ def create_features(observations):
     
     return features
 
-def save_geojson(features, append=False, output_file=None):
+def save_geojson(features, output_file, append=False):
 
     if output_file is not None:
-        output_path = f"../observations/{output_file}"
+        output_path = OBSERVATION_DIR / output_file
     else:
         output_path = "../observations/observations.geojson" 
     
@@ -134,7 +142,9 @@ def save_geojson(features, append=False, output_file=None):
 
 def load_boundary(boundary_file):
     
-    with open(f"../vectors/{boundary_file}", "r", encoding="utf-8") as file:
+    boundary_path = VECTOR_DIR / boundary_file
+
+    with open(boundary_path, "r", encoding="utf-8") as file:
         boundary = json.load(file)
         
         return boundary
@@ -258,7 +268,7 @@ if __name__ == "__main__":
 
     print(f"Inside boundary: {len(observations)}")
 
-    save_geojson(features, append=append_mode, output_file=output_file)
+    save_geojson(features, output_file, append=append_mode)
 
 
 
